@@ -93,13 +93,15 @@
       },
       "username": {
         "type": "string",
-        "title": "Discord Username (must be lowercase)",
-        "examples": ["appal"]
+        "title": "Discord Username (please write in lowercase only)",
+        "pattern": "^(?!.*[A-Z]).*$",
+        "errorMessage": "The username should not contain uppercase letters."
+        "examples": ["username123"]
       },
       "critical": {
         "type": "string",
         "title": "Critical Reaction",
-        "examples": ["CRITICAL BIRB ROLE!! LETS GOOO!"]
+        "examples": ["WOW! THAT'S AWESOME. AWESOME. WOW. THAT'S AWESOME. WOW."]
       }
     },
     "required": ["attributes", "proficiencies", "username", "critical"]
