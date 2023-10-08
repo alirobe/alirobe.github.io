@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>React JSONSchema Form Example</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+</head>
+<body>
+
+<div id="app"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/react@17/umd/react.production.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/react-dom@17/umd/react-dom.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.26.0/babel.min.js"></script>
+<script src="https://unpkg.com/@rjsf/core@3/dist/react-jsonschema-form.js"></script>
+
+<script type="text/babel">
+  const { withTheme } = window['@rjsf/core'];
+  const Form = withTheme(window.Theme);
+
+  const schema = {
+  "type": "object",
+  "additionalProperties": {
+    "type": "object",
+    "properties": {
+      "attributes": {
+        "type": "object",
+        "title": "Attributes",
+        "properties": {
+          "strength": { "type": "integer", "title": "Strength", "examples": [0] },
+          "dexterity": { "type": "integer", "title": "Dexterity", "examples": [7] },
+          "constitution": { "type": "integer", "title": "Constitution", "examples": [2] },
+          "intelligence": { "type": "integer", "title": "Intelligence", "examples": [1] },
+          "wisdom": { "type": "integer", "title": "Wisdom", "examples": [-1] },
+          "charisma": { "type": "integer", "title": "Charisma", "examples": [7] }
+        },
+        "required": ["strength", "dexterity", "constitution", "intelligence", "wisdom", "charisma"]
+      },
+      "proficiencies": {
+        "type": "array",
+        "title": "Proficiencies",
+        "items": { 
+          "type": "string",
+          "enum": [
+            "acrobatics",
+            "animal handling",
+            "arcana",
+            "athletics",
+            "deception",
+            "history",
+            "insight",
+            "intimidation",
+            "investigation",
+            "medicine",
+            "nature",
+            "perception",
+            "performance",
+            "persuasion",
+            "religion",
+            "sleight of hand",
+            "stealth",
+            "survival"
+          ],
+          "enumNames": [
+            "Acrobatics (Dexterity)",
+            "Animal Handling (Wisdom)",
+            "Arcana (Intelligence)",
+            "Athletics (Strength)",
+            "Deception (Charisma)",
+            "History (Intelligence)",
+            "Insight (Wisdom)",
+            "Intimidation (Charisma)",
+            "Investigation (Intelligence)",
+            "Medicine (Wisdom)",
+            "Nature (Intelligence)",
+            "Perception (Wisdom)",
+            "Performance (Charisma)",
+            "Persuasion (Charisma)",
+            "Religion (Intelligence)",
+            "Sleight of Hand (Dexterity)",
+            "Stealth (Dexterity)",
+            "Survival (Wisdom)"
+          ],
+          "examples": ["deception", "arcana", "intimidation"]
+        },
+        "uniqueItems": true
+      },
+      "username": {
+        "type": "string",
+        "title": "Username",
+        "examples": ["appal"]
+      },
+      "critical": {
+        "type": "string",
+        "title": "Critical Reaction",
+        "examples": ["CRITICAL BIRB ROLE!! LETS GOOO!"]
+      }
+    },
+    "required": ["attributes", "proficiencies", "username", "critical"]
+  }
+}
+;
+
+  const uiSchema = {};
+
+  ReactDOM.render(
+    <Form schema={schema} uiSchema={uiSchema} />,
+    document.getElementById('app')
+  );
+</script>
+
+</body>
+</html>
