@@ -1,38 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>React JSONSchema Form Example</title>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-</head>
-<body>
-
-<div id="app"></div>
-
-<script src="https://cdn.jsdelivr.net/npm/react@17/umd/react.production.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/react-dom@17/umd/react-dom.production.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.26.0/babel.min.js"></script>
-<script src="https://unpkg.com/@rjsf/core@3/dist/react-jsonschema-form.js"></script>
-
-<script type="text/babel">
-  const { Form } = window['@rjsf/core'];
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>character data entry</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://unpkg.com/modal-vanilla/dist/index.min.css">
+    </head>
+    <body style="margin:10%">
+        <h1>Character Creator</h1>
+        <div id="app"></div>
+        <!-- Modal Dialog -->
+        <div id="modal" class="modal">
+            <div class="modal-content">
+                <span class="close-button" onclick="document.getElementById('modal').style.display='none'">&times;</span>
+                <pre id="json-output"></pre>
+            </div>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/react@17/umd/react.production.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/react-dom@17/umd/react-dom.production.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.26.0/babel.min.js"></script>
+        <script src="https://unpkg.com/@rjsf/core@3/dist/react-jsonschema-form.js"></script>
+        <script src="https://unpkg.com/modal-vanilla/dist/index.min.js"></script>
+        <script type="text/babel">          
+            
+  const Form = JSONSchemaForm.default;
 
   const schema = {
-  "type": "object",
-  "additionalProperties": {
     "type": "object",
     "properties": {
       "attributes": {
         "type": "object",
         "title": "Attributes",
         "properties": {
-          "strength": { "type": "integer", "title": "Strength", "examples": [0] },
-          "dexterity": { "type": "integer", "title": "Dexterity", "examples": [7] },
-          "constitution": { "type": "integer", "title": "Constitution", "examples": [2] },
-          "intelligence": { "type": "integer", "title": "Intelligence", "examples": [1] },
-          "wisdom": { "type": "integer", "title": "Wisdom", "examples": [-1] },
-          "charisma": { "type": "integer", "title": "Charisma", "examples": [7] }
+          "strength": { "type": "integer", "title": "Strength" },
+          "dexterity": { "type": "integer", "title": "Dexterity" },
+          "constitution": { "type": "integer", "title": "Constitution" },
+          "intelligence": { "type": "integer", "title": "Intelligence" },
+          "wisdom": { "type": "integer", "title": "Wisdom" },
+          "charisma": { "type": "integer", "title": "Charisma" }
         },
         "required": ["strength", "dexterity", "constitution", "intelligence", "wisdom", "charisma"]
       },
@@ -97,17 +103,23 @@
       }
     },
     "required": ["attributes", "proficiencies", "username", "critical"]
-  }
 }
 ;
 
-  const uiSchema = {};
+  const uiSchema = { proficiencies: { "ui:widget": "checkboxes" } };
+  
+  const onSubmit = ({formData}) => {
+    const jsonString = JSON.stringify(formData, null, 2);
+    document.getElementById('json-output').textContent = jsonString;
+    document.getElementById('modal').style.display = 'block';
+  };
+
 
   ReactDOM.render(
-    <Form schema={schema} uiSchema={uiSchema} />,
+    <Form schema={schema} uiSchema={uiSchema} onSubmit={onSubmit}/>,
     document.getElementById('app')
   );
-</script>
 
-</body>
+        </script>
+    </body>
 </html>
