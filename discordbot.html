@@ -87,6 +87,20 @@
       "pattern": "^(?!.*[A-Z]).*$",
       "errorMessage": "The character name should not contain uppercase letters."
     },
+    "username": {
+      "type": "string",
+      "title": "Discord Username (please write in lowercase only)",
+      "pattern": "^(?!.*[A-Z]).*$",
+      "errorMessage": "The username should not contain uppercase letters."
+    },
+    "critical": {
+      "type": "string",
+      "title": "Critical Reaction",
+    },
+    "proficiency_bonus": {
+      "type": "integer",
+      "title": "Proficiency Bonus"
+    },
     "characteristics": {
       "type": "object",
       "title": "Characteristics",
@@ -99,10 +113,6 @@
         "charisma": { "type": "integer", "title": "Charisma" }
       },
       "required": ["strength", "dexterity", "constitution", "intelligence", "wisdom", "charisma"]
-    },
-    "proficiency_bonus": {
-      "type": "integer",
-      "title": "Proficiency Bonus"
     },
     "proficiencies": {
       "$ref": "#/definitions/proficiencyArray",
@@ -135,16 +145,6 @@
             ]
         },
         "uniqueItems": true
-    },
-    "username": {
-      "type": "string",
-      "title": "Discord Username (please write in lowercase only)",
-      "pattern": "^(?!.*[A-Z]).*$",
-      "errorMessage": "The username should not contain uppercase letters."
-    },
-    "critical": {
-      "type": "string",
-      "title": "Critical Reaction",
     }
   },
   "required": ["characteristics", "proficiency_bonus", "proficiencies", "expertise", "saving_bonuses", "username", "critical"]
