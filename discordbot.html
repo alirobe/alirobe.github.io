@@ -113,9 +113,29 @@
       "title": "Expertise"
     },
     "saving_throw_proficiencies": {
-      "$ref": "#/definitions/proficiencyArray",
-      "title": "Saving Throw Proficiencies"
-    },
+        "type": "array",
+        "title": "Saving Throw Proficiencies",
+        "items": { 
+            "type": "string",
+            "enum": [
+                "strength",
+                "dexterity",
+                "constitution",
+                "intelligence",
+                "wisdom",
+                "charisma"
+            ],
+            "enumNames": [
+                "Strength",
+                "Dexterity",
+                "Constitution",
+                "Intelligence",
+                "Wisdom",
+                "Charisma"
+            ]
+        },
+        "uniqueItems": true
+    }
     "username": {
       "type": "string",
       "title": "Discord Username (please write in lowercase only)",
