@@ -87,9 +87,9 @@
       "pattern": "^(?!.*[A-Z]).*$",
       "errorMessage": "The character name should not contain uppercase letters."
     },
-    "attributes": {
+    "characteristics": {
       "type": "object",
-      "title": "Attributes",
+      "title": "Characteristics",
       "properties": {
         "strength": { "type": "integer", "title": "Strength" },
         "dexterity": { "type": "integer", "title": "Dexterity" },
@@ -112,9 +112,9 @@
       "$ref": "#/definitions/proficiencyArray",
       "title": "Expertise"
     },
-    "saving_throw_proficiencies": {
+    "saving_bonuses": {
         "type": "array",
-        "title": "Saving Throw Proficiencies",
+        "title": "Saving Throw Characteristic Bonuses",
         "items": { 
             "type": "string",
             "enum": [
@@ -147,14 +147,14 @@
       "title": "Critical Reaction",
     }
   },
-  "required": ["attributes", "proficiency_bonus", "proficiencies", "username", "critical"]
+  "required": ["characteristics", "proficiency_bonus", "proficiencies", "expertise", "saving_bonuses", "username", "critical"]
 };
 
 
   const uiSchema = {
   proficiencies: { "ui:widget": "checkboxes", "classNames": "col-sm-4" },
   expertise: { "ui:widget": "checkboxes", "classNames": "col-sm-4" },
-  saving_throw_proficiencies: { "ui:widget": "checkboxes", "classNames": "col-sm-4" }
+  saving_bonuses: { "ui:widget": "checkboxes", "classNames": "col-sm-4" }
 };
 
   const onSubmit = ({formData}) => {
