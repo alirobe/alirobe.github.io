@@ -101,9 +101,13 @@
       "type": "integer",
       "title": "Proficiency Bonus"
     },
+    "initiative_bonus": {
+      "type": "integer",
+      "title": "Initiative Roll Bonus (for most characters, your dexterity stat)"
+    },
     "characteristics": {
       "type": "object",
-      "title": "Characteristics",
+      "title": "Characteristic Modifiers (plus-minus)",
       "properties": {
         "strength": { "type": "integer", "title": "Strength" },
         "dexterity": { "type": "integer", "title": "Dexterity" },
@@ -147,7 +151,7 @@
         "uniqueItems": true
     }
   },
-  "required": ["characteristics", "proficiency_bonus", "proficiencies", "expertise", "saving_bonuses", "username", "critical"]
+  "required": ["characteristics", "proficiency_bonus", "proficiencies", "username", "critical"]
 };
 
 
