@@ -60,5 +60,5 @@ It's important to patch as needed, and patching does require manual intervention
 
 * [Official Responsive UI Package for SP 2016 On-Premesis](https://dev.office.com/blogs/announcing-responsive-ui-package-for-sharepoint-on-premises-2013-2016)
 * [Dev Workflow Guide by Stefan Bauer](http://www.n8d.at/blog/how-i-develop-in-sharepoint-and-office-365-now/)
-* [CSS Chart](http://sharepointexperience.com/csschart/csschart.html)
+* [CSS Chart (via web archive)](https://web.archive.org/web/20181117202055/https://sharepointexperience.com/csschart/csschart.html)
 * [Drisgill](http://blog.drisgill.com)
