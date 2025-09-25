@@ -11,9 +11,14 @@ A curated collection of trusted resources for end users, admins, and developers.
 
 ### Browse by role
 
-{% assign pages_list = site.pages | where_exp:"item","item.path contains 'pages/resources/sharepoint/' and item.order != 0" | sort: 'order' %}
+{% assign pages_list = site.pages
+   | where_exp: "item", "item.layout contains 'resource-sharepoint'"
+   | where_exp: "item", "item.link != nil"
+   | sort: 'order'
+%}
 {% for my_page in pages_list %}
-- [{{ my_page.title }}]({{ my_page.permalink }}): {{ my_page.subtitle}}{% endfor %}
+- [{{ my_page.title }}]({{ my_page.permalink }}): {{ my_page.subtitle}}
+{% endfor %}
 
 ### Contribute
 
