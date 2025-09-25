@@ -2,7 +2,7 @@
 layout: resource-sharepoint
 permalink: /resources/sharepoint/communities/
 title: Communities
-subtitle: News, conferences, and groups to keep you current.
+subtitle: News, conferences, and groups to keep you current
 link: SP Community
 order: 3
 ---

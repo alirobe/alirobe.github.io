@@ -2,7 +2,7 @@
 layout: resource-sharepoint
 permalink: /resources/sharepoint/governance-adoption/
 title: Governance & Adoption
-subtitle: Plan information architecture, rollouts and change comms
+subtitle: Plan information architecture, rollouts & change comms
 link: Adoption
 order: 2
 ---
