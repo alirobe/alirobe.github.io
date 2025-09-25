@@ -4,6 +4,10 @@ layout: no-header
 
 ##  Ali Robertson
 
+<div class="profile-image">
+    <img src='/assets/ali-robertson.jpg' alt='Ali Robertson' />
+</div>
+
 G'day! 👦🏽
 
 I'm an Aussie system architect and consulting tech strategist.

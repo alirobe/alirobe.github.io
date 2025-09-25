@@ -18,7 +18,14 @@ body>header.breadcrumbs {
     grid-column: 2;
     width: 100%;
 }
-
+.profile-image {
+    float: right;
+}
+.profile-image img{
+    width: 200px;
+    border-radius: 50%;
+    margin: 1rem;
+}
 header.subnav {
     padding: 0 0.5rem;
 }
