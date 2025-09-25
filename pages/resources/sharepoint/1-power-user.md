@@ -46,7 +46,4 @@ Keep updated with these sources
 * [MS 365 Blog](https://www.microsoft.com/en-au/microsoft-365/blog/)
 * [Daniel Anderson on LinkedIn](https://www.linkedin.com/in/danielando/)
 
---- 
-
 To expand your skills in other areas, check the [other resources](../).
-Is something missing? [Let me know.](/)

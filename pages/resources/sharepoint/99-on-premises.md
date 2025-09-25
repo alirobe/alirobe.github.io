@@ -62,7 +62,3 @@ It's important to patch as needed, and patching does require manual intervention
 * [Dev Workflow Guide by Stefan Bauer](http://www.n8d.at/blog/how-i-develop-in-sharepoint-and-office-365-now/)
 * [CSS Chart](http://sharepointexperience.com/csschart/csschart.html)
 * [Drisgill](http://blog.drisgill.com)
-
-----
-
-Is something missing? [Let me know.](/)

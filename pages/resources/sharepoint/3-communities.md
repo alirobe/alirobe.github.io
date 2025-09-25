@@ -45,7 +45,3 @@ Keep up to date with these feeds.
 * [Medium: SharePoint](https://medium.com/tag/sharepoint)
 * Twitter: [#SharePoint](https://twitter.com/search?q=%23sharepoint) [#sphelp](https://twitter.com/search?q=%23sphelp) ([@alirobe's influencer list](https://twitter.com/alirobe/lists/sharepoint-influencers/members))
 * Bluesky: [SharePoint](https://bsky.app/search?q=%23SharePoint) ([bluesky.ms](https://bluesky.ms/))
-
-----
-
-Is something missing? [Let me know.](/)

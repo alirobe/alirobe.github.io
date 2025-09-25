@@ -16,21 +16,20 @@ I like to help organisations find a clear path through their information managem
 
 I have a focus on MS tech: MS 365, Dynamics 365, Azure, Power Platform.
 
-### Tech resources
+## Resources
 
-- [Tech resource library](/resources)
-  - [SharePoint](/resources/sharepoint/)
-  - [Windows](/resources/windows/)
-- [gists](https://gist.github.com/alirobe/public?direction=desc&sort=updated)
+- [SharePoint resources](/resources/sharepoint/)
+- [Windows resources](/resources/windows/)
+- [gists](https://gist.github.com/alirobe/public?direction=desc&sort=updated) / [github](https://github.com/alirobe)
 
-### Communities I run
+## Communities I run
 
 - [/r/microsoft365 (15k members)](//old.reddit.com/r/microsoft365)
 - [/r/dynamics365 (12k)](//old.reddit.com/r/dynamics365)
 - [/r/powerautomate (4k)](//old.reddit.com/r/powerautomate)
 - [Dynamics 365 Discord (2k)](//discord.gg/sPSYyYgU39)
 
-### Profile / contact info
+## Profile / contact info
 
 - [github](//github.com/alirobe)
 - [linkedin](//www.linkedin.com/in/alirobe)

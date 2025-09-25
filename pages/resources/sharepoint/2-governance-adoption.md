@@ -56,7 +56,3 @@ Keep updated with these sources.
 
 * [TechTarget KM](https://www.techtarget.com/searchcontentmanagement/resources/Knowledge-management)
 * see: [Communities](../communities/)
-
-----
-
-Is something missing? [Let me know.](/)

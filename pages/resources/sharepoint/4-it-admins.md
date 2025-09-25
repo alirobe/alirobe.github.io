@@ -88,7 +88,3 @@ If you've suffered catastrophic loss in the cloud, and are having difficulty usi
 ### On-Prem
 
 * [On-prem SharePoint Docs](../on-premises)
-
-----
-
-Is something missing? [Let me know.](/)

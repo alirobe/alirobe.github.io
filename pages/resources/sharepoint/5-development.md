@@ -82,7 +82,3 @@ Focused links for SPFx, PnP, and Microsoft 365 development—learn, scaffold, te
 * [Top SharePoint](http://www.topsharepoint.com/)
 * [builtwith.com](http://builtwith.com/)
 * [Smashing Magazine](https://www.smashingmagazine.com/)
-
-----
-
-Is something missing? [Let me know.](/)

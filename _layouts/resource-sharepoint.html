@@ -1,27 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-    {% include head.html %}
+{% include head.html %}
 </head>
 <body>
-    <header class="breadcrumbs">
-        {% include breadcrumbs.html %}
-    </header>
-    <header class="subnav">
-        <nav>
-            <span>SP Resources:</span>
-                {% assign pages_list = site.pages
-                    | where_exp: "item", "item.layout contains 'resource-sharepoint'"
-                    | where_exp: "item", "item.link != nil"
-                    | sort: 'order'
-                %}
-            {% for my_page in pages_list %}<a href="{{ my_page.permalink }}" {% if page.url==my_page.permalink %}aria-current="page"{% endif %} title="{{my_page.subtitle}}">{{ my_page.link }}</a>
-            {% endfor %}
-        </nav>
-        </header>
-    <main>
-        {{ content }}
-    </main>
-    {% include footer.html %}
+{% include header.html %}
+<header class="subnav">
+<nav>
+<span>SP Resources:</span>
+    {% assign pages_list = site.pages
+        | where_exp: "item", "item.layout contains 'sharepoint'"
+        | where_exp: "item", "item.link != nil"
+        | sort: 'order'
+    %}
+{% for my_page in pages_list %}<a href="{{ my_page.permalink }}" {% if page.url==my_page.permalink %}aria-current="page"{% endif %} title="{{my_page.subtitle}}">{{ my_page.link }}</a>
+{% endfor %}
+</nav>
+</header>
+<main>
+{{ content }}
+</main>
+{% include footer.html %}
 </body>
 </html>
