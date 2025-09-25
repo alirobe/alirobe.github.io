@@ -2,10 +2,11 @@
 layout: resource-sharepoint
 permalink: /resources/sharepoint/on-premises/
 title: On-Premises
+subtitle: SharePoint Server resources
 link: On-Prem
 order: 99
-subtitle: SharePoint Server resources
 ---
+
 ## Resources for on-prem SharePoint
 
 Vetted links for administrators and IT pros who have to deal with SharePoint on-premises (2013, 2016, 2019, and Server Edition).

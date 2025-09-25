@@ -2,10 +2,9 @@
 layout: resource-sharepoint
 permalink: /resources/sharepoint/power-user/
 title: Power Users
+subtitle: Practical guidance for making your SharePoint work better
 link : Power Users
 order: 1
-subtitle: Practical guidance for making your SharePoint work better
-
 ---
 ## Resources for SP Power Users
 
@@ -17,7 +16,6 @@ Learn practical information about how SharePoint's features can improve your com
 * [SharePoint - Wiki Page](http://en.wikipedia.org/wiki/SharePoint) - technical explanation
 * [sharepoint.com](http://sharepoint.com) - official marketing
 * [What is SharePoint? (official)](https://support.microsoft.com/office/what-is-sharepoint-97b915e6-651b-43b2-827d-fb25777f446f) - official tech support overview
-
 
 ### Explore successful approaches
 
