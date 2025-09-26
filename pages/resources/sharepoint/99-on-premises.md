@@ -37,6 +37,7 @@ It's important to patch as needed, and patching does require manual intervention
 * [Archived PnP PowerShell Module (on-prem support)](https://github.com/pnp/PnP-PowerShell)
 * [Syskit SPDocKit](http://www.syskit.com/products/spdockit)
 * [Rencore Governance](https://rencore.com/)
+* [Awesome SharePoint](https://github.com/BSUG/awesome-sharepoint)
 * Chrome Extension: [SP Editor](https://chrome.google.com/webstore/detail/sp-editor/ecblfcmjnbbgaojblcpmjoamegpbodhd?hl=en)
 
 ### Handy utilities
