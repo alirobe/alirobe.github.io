@@ -7,7 +7,7 @@ order: 0
 
 ## Useful SharePoint Resources
 
-A curated collection of trusted resources for end users, admins, and developers.
+A curated collection of trusted resources for end users, admins, and developers. I also contribute to the [SharePoint Wikipedia Page](https://en.wikipedia.org/wiki/Microsoft_SharePoint).
 
 ### Browse by role
 

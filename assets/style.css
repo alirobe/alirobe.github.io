@@ -23,7 +23,9 @@ body > header.breadcrumbs > div {
 }
 
 .profile-image {
-    float: right;
+    padding: 0;
+    border: 0;
+    background: none;
 }
 
 .profile-image img {

@@ -28,6 +28,7 @@ It's important to patch as needed, and patching does require manual intervention
 
 * [Update deployment guidance](https://learn.microsoft.com/en-us/sharepoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
 * [Update Release Notes](https://learn.microsoft.com/en-us/officeupdates/sharepoint-updates)
+* [Patching best practices](https://blog.stefan-gossner.com/2020/02/11/sharepoint-patching-best-practices/)
 * Take note of [EOL Dates](https://endoflife.date/sharepoint), and plan upgrades/migrations accordingly.
 
 ### Tools for on-prem admins
