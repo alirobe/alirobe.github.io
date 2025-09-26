@@ -1,11 +1,13 @@
 ---
-layout: resource-power
 permalink: /resources/power-platform/power-bi/
+layout: resource
+restype: power
+order: 1
+link : Power BI
 title: Power BI Resources
 subtitle: Stuff to help you with Power BI
-link : Power BI
-order: 1
 ---
+
 ## Power BI and DAX
 
 Handy non-SharePoint links that often help SharePoint pros.

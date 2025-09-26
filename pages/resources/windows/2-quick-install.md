@@ -1,5 +1,6 @@
 ---
-layout: resource-windows
+layout: resource
+restype: windows
 permalink: /resources/windows/quick-install/
 title: Get up and running quickly on Windows
 link: Quick install
@@ -8,11 +9,11 @@ order: 2
 
 ## Quickly get a new PC up and running
 
-### for most users - ninite.com
+### For most users - ninite.com
 
 If you're not a developer and just want to quickly install common tools, [ninite.com](https://ninite.com/) is a great option. It has a simple web interface where you can select the apps you want, and it generates a custom installer that will download and install them all for you.
 
-### for developers/techs - winget
+### For developers/techs - winget
 
 Here is a simple script to install a set of common tools on Windows using the Windows Package Manager (winget). Winget is included with Windows 10+ and can mostly replace chocolatey, however it is much more verbose. This script will get you up and running with a good set of dev tools for M365/D365/Azure dev and admin tasks.
 

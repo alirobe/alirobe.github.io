@@ -1,10 +1,11 @@
 ---
-layout: resource-sharepoint
 permalink: /resources/sharepoint/governance-adoption/
+layout: resource
+restype: sharepoint
+order: 2
+link: Adoption
 title: Governance & Adoption
 subtitle: Plan information architecture, rollouts & change comms
-link: Adoption
-order: 2
 ---
 
 ## SP Governance, IA + adoption

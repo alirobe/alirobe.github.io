@@ -1,10 +1,11 @@
 ---
-layout: resource-power
 permalink: /resources/power-platform/
-title: Power Platform Resources
-subtitle: Stuff to help you with Power Platform
+layout: resource
+restype: power
 link : Power Platform Overview
 order: 1
+title: Power Platform Resources
+subtitle: Stuff to help you with Power Platform
 ---
 
 * PowerAutomate: [WonderLaura](https://www.youtube.com/c/Wonderlaura)

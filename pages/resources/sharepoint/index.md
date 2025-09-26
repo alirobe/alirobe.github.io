@@ -1,7 +1,9 @@
 ---
-layout: resource-sharepoint
+layout: resource
+restype: sharepoint
 permalink: /resources/sharepoint/
 title: SharePoint Resources
+link: Home
 order: 0
 ---
 
@@ -13,8 +15,9 @@ A curated collection of trusted resources for end users, admins, and developers.
 
 <ul>
 {% assign pages_list = site.pages
-   | where_exp: "item", "item.layout contains 'resource-sharepoint'"
+   | where_exp: "item", "item.restype contains 'sharepoint'"
    | where_exp: "item", "item.link != nil"
+   | where_exp: "item", "item.permalink != page.permalink"
    | sort: 'order'
 %}
 {% for my_page in pages_list %}

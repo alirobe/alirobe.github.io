@@ -1,11 +1,13 @@
 ---
-layout: resource-sharepoint
 permalink: /resources/sharepoint/power-user/
+layout: resource
+restype: sharepoint
+order: 1
+link : Power Users
 title: Power Users
 subtitle: Practical guidance for making your SharePoint work better
-link : Power Users
-order: 1
 ---
+
 ## Resources for SP Power Users
 
 Learn practical information about how SharePoint's features can improve your communication and collaboration.

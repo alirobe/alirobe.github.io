@@ -1,10 +1,11 @@
 ---
-layout: resource-sharepoint
 permalink: /resources/sharepoint/it-admins/
+layout: resource
+restype: sharepoint
+order: 4
+link: Admins + IT 
 title: IT + Admins
 subtitle: Technical resources, roadmaps, migrations, and essential tools
-link: Admins + IT 
-order: 4
 ---
 
 ## Resources for SP admins + IT pros

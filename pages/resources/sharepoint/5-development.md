@@ -1,9 +1,11 @@
 ---
-layout: resource-sharepoint
 permalink: /resources/sharepoint/development/
+layout: resource
+restype: sharepoint
+order: 5
+link: Devs
 title: Development
 subtitle: SPFx, PnP, APIs, and dev tools
-order: 5
 ---
 
 ## Build better SharePoint solutions

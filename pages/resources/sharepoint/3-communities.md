@@ -1,10 +1,11 @@
 ---
-layout: resource-sharepoint
 permalink: /resources/sharepoint/communities/
+layout: resource
+restype: sharepoint
+order: 3
+link: SP Community
 title: Communities
 subtitle: News, conferences, and groups to keep you current
-link: SP Community
-order: 3
 ---
 
 ## SharePoint communities

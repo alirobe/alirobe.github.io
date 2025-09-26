@@ -1,5 +1,7 @@
 ---
-layout: resource-windows
+layout: resource
+restype: windows
+link: Windows Resources
 permalink: /resources/windows/
 title: Windows resources
 ---

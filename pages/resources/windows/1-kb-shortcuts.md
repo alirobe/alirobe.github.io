@@ -1,5 +1,6 @@
 ---
-layout: resource-windows
+layout: resource
+restype: windows
 permalink: /resources/windows/kb-shortcuts/
 title: Keyboard Shortcuts for Windows 11
 link: KB shortcuts

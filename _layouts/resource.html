@@ -7,12 +7,10 @@
 {% include header.html %}
 <header class="subnav">
 <nav>
-<span>SP Resources:</span>
-    {% assign pages_list = site.pages
-        | where_exp: "item", "item.layout contains 'sharepoint'"
-        | where_exp: "item", "item.link != nil"
-        | sort: 'order'
-    %}
+{% assign pages_list = site.pages
+| where_exp: "item", "item.restype contains page.restype"
+| sort: 'order'
+%}
 {% for my_page in pages_list %}<a href="{{ my_page.permalink }}" {% if page.url==my_page.permalink %}aria-current="page"{% endif %} title="{{my_page.subtitle}}">{{ my_page.link }}</a>
 {% endfor %}
 </nav>

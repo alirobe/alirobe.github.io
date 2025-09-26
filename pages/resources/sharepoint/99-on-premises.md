@@ -1,10 +1,11 @@
 ---
-layout: resource-sharepoint
 permalink: /resources/sharepoint/on-premises/
+layout: resource
+restype: sharepoint
+order: 99
+link: On-Prem
 title: On-Premises
 subtitle: SharePoint Server resources
-link: On-Prem
-order: 99
 ---
 
 ## Resources for on-prem SharePoint
