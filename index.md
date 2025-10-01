@@ -25,7 +25,7 @@ I am enthusiastically focused on MS tech: MS 365, Dynamics 365, Azure, Power Pla
 
 - [/r/microsoft365 (15k members)](//microsoft365.reddit.com)
 - [/r/dynamics365 (12k)](//dynamics365.reddit.com)
-- [Dynamics 365 Discord (2k)](//discord.gg/sPSYyYgU39)
+- [Dynamics 365 Discord (1.2k)](//discord.gg/sPSYyYgU39)
 
 ### Profile / contact info
 

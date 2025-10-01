@@ -18,6 +18,10 @@ subtitle: Power Automate / Microsoft Flow Resources
 * [Power Automate + Microsoft Flow Subreddits](https://www.reddit.com/r/PowerAutomate+MicrosoftFlow/)
 * [ILoveAutomation Discord](https://discord.com/invite/iloveautomation)
 
+## Key videos
+
+* [Power automate data operations](https://www.youtube.com/watch?v=qxFx0hqJxj4)
+
 ## Videos + Blogs
 
 * Power Automate: [YouTube](https://www.youtube.com/c/Wonderlaura/playlists)
