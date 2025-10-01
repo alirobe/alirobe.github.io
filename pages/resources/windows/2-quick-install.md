@@ -18,35 +18,46 @@ If you're not a developer and just want to quickly install common tools, [ninite
 Here is a simple script to install a set of common tools on Windows using the Windows Package Manager (winget). Winget is included with Windows 10+ and can mostly replace chocolatey, however it is much more verbose. This script will get you up and running with a good set of dev tools for M365/D365/Azure dev and admin tasks.
 
 ```pwsh
+# Core install sets (edit to taste). Each entry = Winget Id
+$dev = @(
+  'Git.Git'
+  'Microsoft.VisualStudioCode'
+  'CoreyButler.NVMforWindows'
+  'GoLang.Go'
+  'Microsoft.PowerShell'
+  'JanDeDobbeleer.OhMyPosh'
+  'Microsoft.DotNet.SDK.8'
+  'Docker.DockerDesktop'
+  'MikeFarah.yq'
+  'Microsoft.AzureCLI'
+  'Microsoft.Azure.StorageExplorer'
+  'Microsoft.AzureDataStudio'
+  'Microsoft.SQLServerManagementStudio'
+  'AzureFunctions.CoreTools'
+)
 
-# dev
-winget install --id Microsoft.PowerShell -e -s winget --accept-package-agreements
-winget install --id=Microsoft.DotNet.SDK.8 -e -s --accept-package-agreements
-winget install --id CoreyButler.NVMforWindows -e -s winget --accept-package-agreements
-winget install --id GoLang.Go -e -s winget --accept-package-agreements
-winget install --id Microsoft.AzureCLI -e -s winget --accept-package-agreements
-winget install --id Microsoft.Azure.StorageExplorer -e -s winget --accept-package-agreements
-winget install --id Microsoft.Azure.StorageEmulator -e -s winget --accept-package-agreements
-winget install --id Microsoft.AzureDataStudio -e -s winget --accept-package-agreements
-winget install --id Microsoft.SQLServerManagementStudio -e -s winget --accept-package-agreements
-winget install --id AzureFunctions.CoreTools -e -s winget --accept-package-agreements
-winget install --id Git.Git -e -s winget --accept-package-agreements
-winget install --id Microsoft.VisualStudioCode -e -s winget --accept-package-agreements
-winget install --id Docker.DockerDesktop -e -s winget --accept-package-agreements
-winget install --id JanDeDobbeleer.OhMyPosh -e -s winget --accept-package-agreements
-winget install --id MikeFarah.yq -e -s winget --accept-package-agreements
+$desktop = @(
+  'Google.Chrome'
+  'Mozilla.Firefox'
+  'Microsoft.Office'
+  'Microsoft.Teams'
+  'Spotify.Spotify'
+  'Microsoft.PowerToys'
+  '7zip.7zip'
+  'AntibodySoftware.WizTree'
+  'VideoLAN.VLC'
+)
 
-# desktop utils
-winget install --id Google.Chrome -e -s winget
-winget install --id Mozilla.Firefox -e -s winget
-winget install --id Microsoft.Office  -e -s winget
-winget install --id Microsoft.Teams  -e -s winget
-winget install --id Spotify.Spotify -e -s winget
-winget install --id Microsoft.PowerToys -e -s winget
-winget install --id 7zip.7zip -e -s winget
-winget install --id AntibodySoftware.WizTree -e -s winget
-winget install --id VideoLAN.VLC -e -s winget
 
+$all = $dev + $desktop  
+Write-Host "Installing $($all.Count) packages via winget..." -ForegroundColor Cyan
+
+foreach ($id in $all) {
+  Write-Host ("-> {0}" -f $id) -ForegroundColor DarkGray
+  winget install --id $id -e -s winget --accept-package-agreements --accept-source-agreements
+}
+
+Write-Host "Done." -ForegroundColor Green
 ```
 
 After running these installs...
