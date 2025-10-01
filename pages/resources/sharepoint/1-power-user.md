@@ -25,7 +25,11 @@ You can get inspiration from these resources
 
 * [Microsoft 365 Customer Stories](https://www.microsoft.com/en/customers/search?sq=&ff=&p=0&so=story_publish_date+desc&filters=product%3Aother%2Fsharepoint) - some useful case studies
 * [SharePoint Lookbook](https://adoption.microsoft.com/en-us/sharepoint-look-book/) - sample sites
+* [Lookbook 365](https://lookbook365.com/)
 * [Step Two Intranet Awards](https://www.steptwo.com.au/awards/) - showcases innovative intranet solutions
+* Nielson Norman Group articles on intranets and collaboration: [Intranets](https://www.nngroup.com/topic/intranets/), [Collaboration](https://www.nngroup.com/topic/collaboration/)
+* Blog: [SharePoint Maven](https://sharepointmaven.com/category/sharepoint/)
+* [SharePoint Diary](https://www.sharepointdiary.com/)
 
 ### Get certified / trained
 

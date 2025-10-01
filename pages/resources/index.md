@@ -4,6 +4,9 @@ permalink: /resources/
 title: Resources
 ---
 
-- [SharePoint resources library](/resources/sharepoint/) - A curated collection of trusted resources for end users, admins, and developers.
-- [Windows resources](/resources/windows/) - Tips, tricks, and tools for Windows users.
-- Coming soon: Power Platform, D365 CE, and M365 resource libraries. :)
+* [SharePoint resources library](/resources/sharepoint/)
+* [Power Platform resources library](/resources/power-platform/)
+* [Microsoft 365 resources](/resources/m365/)
+* [Windows resources](/resources/windows/)
+
+These are under development, more coming soon.w

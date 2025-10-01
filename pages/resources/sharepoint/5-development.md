@@ -65,7 +65,7 @@ Focused links for SPFx, PnP, and Microsoft 365 development—learn, scaffold, te
 * MVP [David Drever](http://prairiedeveloper.com/)
 * Community [David Lozzi](https://davidlozzi.com)
 * MVP [Elio Struyf](http://www.eliostruyf.com) ([github](https://github.com/estruyf))
-* MVP [John Liu](http://johnliu.net)
+* MVP [John Liu](http://johnliu.net), [YouTube](https://www.youtube.com/c/JohnLiu/playlists) ([github](https://github.com/johnnliu))
 * MVP [Julie Turner](https://julieturner.net/)
 * MVP [Marc Anderson](http://sympmarc.com/)
 * MVP [Stefan Bauer](http://www.n8d.at/blog/) ([github](https://github.com/StfBauer?tab=repositories))
