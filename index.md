@@ -2,15 +2,10 @@
 layout: no-header
 ---
 <aside class="profile-image" role="img" aria-labelledby="profile-heading">
-    <img src="/assets/ali-robertson.jpg" 
-         alt="Professional headshot of Ali Robertson, an Australian system architect and tech strategist" 
-         width="200" 
-         height="200"
-         loading="eager" />
+    <img src="/assets/ali-robertson.jpg"  alt="Professional headshot of Ali Robertson, an Australian system architect and tech strategist" width="200" height="200" loading="eager" />
 </aside>
 
 ##  Ali Robertson
-
 
 G'day! 👦🏽
 
@@ -28,9 +23,8 @@ I am enthusiastically focused on MS tech: MS 365, Dynamics 365, Azure, Power Pla
 
 ### Communities I run
 
-- [/r/microsoft365 (15k members)](//old.reddit.com/r/microsoft365)
-- [/r/dynamics365 (12k)](//old.reddit.com/r/dynamics365)
-- [/r/powerautomate (4k)](//old.reddit.com/r/powerautomate)
+- [/r/microsoft365 (15k members)](//microsoft365.reddit.com)
+- [/r/dynamics365 (12k)](//dynamics365.reddit.com)
 - [Dynamics 365 Discord (2k)](//discord.gg/sPSYyYgU39)
 
 ### Profile / contact info
@@ -38,6 +32,5 @@ I am enthusiastically focused on MS tech: MS 365, Dynamics 365, Azure, Power Pla
 - [github](//github.com/alirobe)
 - [linkedin](//www.linkedin.com/in/alirobe)
 - [bluesky](//bsky.app/profile/ali.id.au)
-- [stackoverflow](//stackoverflow.com/users/114149/alirobe)
 - [ko-fi](//ko-fi.com/alirobe)
 - [email](mailto:ali@ali.id.au)

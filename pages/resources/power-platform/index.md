@@ -24,7 +24,7 @@ subtitle: Stuff to help you with Power Platform
 * April Dunnam: [YouTube](https://www.youtube.com/@AprilDunnam/playlists), [Blog](<https://www.sharepointsiren.com/>), [Coffee](https://buymeacoffee.com/aprildunnam)
 * Reza Dorrani: [YouTube](https://www.youtube.com/@RezaDorrani/playlists), [Blog](https://rezadorrani.com/), [YT Memberships](https://www.youtube.com/rezadorrani/join)
 * Lisa Crosbie: [YouTube](https://www.youtube.com/@LisaCrosbie/playlists), [LinkedIn](https://www.linkedin.com/in/lisa-crosbie/), [BuyMeACoffee](https://buymeacoffee.com/lisacrosbie)
-* PowerApps + PowerShell: [Shane Young](https://www.youtube.com/c/ShaneYoungCloud) [PowerApps911](https://www.powerapps911.com/blog)
+* PowerApps + PowerShell: [Shane Young](https://www.youtube.com/@ShanesCows/playlists) [PowerApps911](https://www.powerapps911.com/blog)
 
 ### Governance
 
