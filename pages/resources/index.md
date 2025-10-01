@@ -9,4 +9,4 @@ title: Resources
 * [Microsoft 365 resources](/resources/m365/)
 * [Windows resources](/resources/windows/)
 
-These are under development, more coming soon.w
+These are under development, more coming soon.

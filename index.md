@@ -17,20 +17,22 @@ I am enthusiastically focused on MS tech: MS 365, Dynamics 365, Azure, Power Pla
 
 ### Resources I maintain
 
-- [SharePoint resources](/resources/sharepoint/)
-- [Windows resources](/resources/windows/)
-- [gists](https://gist.github.com/alirobe/public?direction=desc&sort=updated) / [github](https://github.com/alirobe)
+* [SharePoint resources library](/resources/sharepoint/)
+* [Power Platform resources library](/resources/power-platform/)
+* [Some Microsoft 365 resources (WIP)](/resources/m365/)
+* [Windows resources (WIP)](/resources/windows/)
+* [gists](https://gist.github.com/alirobe/public?direction=desc&sort=updated) / [github](https://github.com/alirobe)
 
 ### Communities I run
 
-- [/r/microsoft365 (15k members)](//microsoft365.reddit.com)
-- [/r/dynamics365 (12k)](//dynamics365.reddit.com)
-- [Dynamics 365 Discord (1.2k)](//discord.gg/sPSYyYgU39)
+* [/r/microsoft365 (15k members)](//microsoft365.reddit.com)
+* [/r/dynamics365 (12k)](//dynamics365.reddit.com)
+* [Dynamics 365 + Power Platform Discord (1.2k)](//discord.gg/sPSYyYgU39)
 
 ### Profile / contact info
 
-- [github](//github.com/alirobe)
-- [linkedin](//www.linkedin.com/in/alirobe)
-- [bluesky](//bsky.app/profile/ali.id.au)
-- [ko-fi](//ko-fi.com/alirobe)
-- [email](mailto:ali@ali.id.au)
+* [github](//github.com/alirobe)
+* [linkedin](//www.linkedin.com/in/alirobe)
+* [bluesky](//bsky.app/profile/ali.id.au)
+* [ko-fi](//ko-fi.com/alirobe)
+* [email](mailto:ali@ali.id.au)

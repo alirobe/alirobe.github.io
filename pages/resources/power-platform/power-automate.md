@@ -12,18 +12,19 @@ subtitle: Power Automate / Microsoft Flow Resources
 
 * Flow Studio: [https://flowstudio.app/](https://flowstudio.app/) - a great tool for building and debugging flows
 
-## Community
+### Community
 
 * [Power Automate Community](https://powerusers.microsoft.com/) - forums for asking questions and sharing knowledge
 * [Power Automate + Microsoft Flow Subreddits](https://www.reddit.com/r/PowerAutomate+MicrosoftFlow/)
-* [ILoveAutomation Discord](https://discord.com/invite/iloveautomation)
+* [ILoveAutomation Discord (v/active)](https://discord.com/invite/iloveautomation)
+* [Dynamics 365 + Power Platform Discord (1.2k)](//discord.gg/sPSYyYgU39)
 
-## Key videos
+### Key videos
 
 * [Power automate data operations](https://www.youtube.com/watch?v=qxFx0hqJxj4)
 
-## Videos + Blogs
+### Videos + Blogs
 
-* Power Automate: [YouTube](https://www.youtube.com/c/Wonderlaura/playlists)
-* PowerAutomate Ninja [John Liu](http://johnliu.net), [YouTube](https://www.youtube.com/c/JohnLiu/playlists) ([github](https://github.com/johnnliu))
-* PowerAutomate: [DamoBird365 on YT](https://www.youtube.com/c/DamoBird365/playlists) ([Web](https://damobird365.com/))
+* [IWMentor Wonder Laura](https://www.iwmentor.com/): [YouTube](https://www.youtube.com/c/Wonderlaura/playlists)
+* [John Liu](http://johnliu.net): [YouTube](https://www.youtube.com/c/JohnLiu/playlists) ([github](https://github.com/johnnliu))
+* [DamoBird365]((https://damobird365.com/)): [YouTube](https://www.youtube.com/c/DamoBird365/playlists)
