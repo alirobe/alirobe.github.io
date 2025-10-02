@@ -26,5 +26,5 @@ subtitle: Power Automate / Microsoft Flow Resources
 ### Videos + Blogs
 
 * [IWMentor Wonder Laura](https://www.iwmentor.com/): [YouTube](https://www.youtube.com/c/Wonderlaura/playlists)
-* [John Liu](http://johnliu.net): [YouTube](https://www.youtube.com/c/JohnLiu/playlists) ([github](https://github.com/johnnliu))
+* [John Liu](http://johnliu.net): [YouTube](https://www.youtube.com/@JohnLiuNet/videos) ([github](https://github.com/johnnliu))
 * [DamoBird365]((https://damobird365.com/)): [YouTube](https://www.youtube.com/c/DamoBird365/playlists)
