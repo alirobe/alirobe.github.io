@@ -9,7 +9,6 @@ You can reach me through any of these channels:
 * [LinkedIn](https://www.linkedin.com/in/alirobe/)
 * [GitHub](https://github.com/alirobe)
 * [Bluesky](https://bsky.app/profile/ali.id.au)
-* [reddit](https://www.reddit.com/user/alirobe)
 * [Twitter / X](https://twitter.com/alirobe)
 
 ## Time zone

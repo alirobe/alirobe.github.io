@@ -60,6 +60,18 @@ self.addEventListener('activate', (event) => {
 
 // Fetch event - cache first, update cache in background
 self.addEventListener('fetch', (event) => {
+  const url = new URL(event.request.url);
+
+  // Only cache same-origin requests and Google Fonts
+  const shouldCache = url.origin === self.location.origin ||
+                      url.hostname === 'fonts.googleapis.com' ||
+                      url.hostname === 'fonts.gstatic.com';
+
+  if (!shouldCache) {
+    // Let third-party requests (analytics, etc) pass through
+    return;
+  }
+
   event.respondWith(
     caches.match(event.request).then((cached) => {
       // Fetch in background to update cache
