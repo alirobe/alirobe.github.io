@@ -15,6 +15,7 @@ News, conferences, and groups to keep you current.
 
 Visit these online groups.
 
+* Microsoft patterns and practices community [Discord](https://aka.ms/community/discord) [YouTube](https://www.youtube.com/@MicrosoftCommunityLearning/playlists) [GitHub](https://github.com/pnp)
 * Microsoft Tech Community – [SharePoint hub](https://techcommunity.microsoft.com/category/content_management)
 * [SharePoint subreddit](https://old.reddit.com/r/sharepoint/) + [Discord](https://discord.gg/7FqFA9rQzR)
 * [Office 365 subreddit](https://old.reddit.com/r/Office365/)
