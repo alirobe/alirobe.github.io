@@ -14,34 +14,4 @@ Is something missing? <a href="https://forms.gle/pYdzyuwQUXLfQNjp6">Let me know.
     posthog.init('phc_rRysMn8ArjeUWywV3YMGeB37PVHdiAyhYGARi8wkFQb', { api_host: 'https://us.i.posthog.com', defaults: '2025-05-24', person_profiles: 'identified_only' })
 </script>
 
-<script>
-    // Mobile menu toggle
-    const menuToggle = document.querySelector('.mobile-menu-toggle');
-    const sidebar = document.querySelector('.sidebar');
-
-    if (menuToggle && sidebar) {
-        menuToggle.addEventListener('click', function() {
-            this.classList.toggle('active');
-            sidebar.classList.toggle('active');
-        });
-
-        // Close menu when clicking overlay
-        sidebar.addEventListener('click', function(e) {
-            if (e.target === this && this.classList.contains('active')) {
-                menuToggle.classList.remove('active');
-                this.classList.remove('active');
-            }
-        });
-
-        // Close menu when clicking a link
-        const sidebarLinks = sidebar.querySelectorAll('a');
-        sidebarLinks.forEach(link => {
-            link.addEventListener('click', function() {
-                if (window.innerWidth <= 768) {
-                    menuToggle.classList.remove('active');
-                    sidebar.classList.remove('active');
-                }
-            });
-        });
-    }
-</script>
+<script src="/assets/menu.js" defer></script>

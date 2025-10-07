@@ -486,10 +486,20 @@ tr:hover {
     transform: translateY(-7px) rotate(-45deg);
 }
 
+/* Homepage mobile title */
+.mobile-home-title {
+    display: none;
+}
+
 /* Mobile responsive */
 @media (max-width: 768px) {
     body {
         font-size: 1rem;
+    }
+
+    .mobile-home-title {
+        display: block;
+        margin-top: 0;
     }
 
     h1 { font-size: 2rem; }
@@ -546,7 +556,7 @@ tr:hover {
     header.subnav,
     footer {
         padding-left: 1rem;
-        padding-right: 1rem;
+        padding-right: 4rem;
     }
 
     header.subnav nav {
