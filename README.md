@@ -2,8 +2,6 @@
 
 This is the source for my personal website: <https://www.ali.id.au>.
 
-It includes a [SharePoint resources library](https://www.ali.id.au/sharepoint-resources) that I maintain. You are welcome to submit PRs to add/change resources :)
-
 ## Links
 
 - Browse the pages in GitHub: <https://github.com/alirobe.github.io>
@@ -25,3 +23,5 @@ The site will be available at `http://localhost:1313` with live reload enabled.
 ## Contribute
 
 - Open an issue or PR: <https://github.com/alirobe.github.io>
+- Contact me: <https://www.ali.id.au/contact/>
+- Submit a resource suggestion: <https://forms.gle/pYdzyuwQUXLfQNjp6>
