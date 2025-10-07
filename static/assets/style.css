@@ -380,24 +380,25 @@ tr:hover {
     top: 1rem;
     right: 1rem;
     z-index: 1001;
-    background: var(--accent);
+    background: transparent;
     border: none;
-    border-radius: 4px;
+    border-radius: 6px;
     width: 44px;
     height: 44px;
     padding: 10px;
     cursor: pointer;
     flex-direction: column;
     justify-content: space-around;
+    align-items: center;
 }
 
 .mobile-menu-toggle span {
     display: block;
     width: 24px;
-    height: 3px;
-    background: white;
-    border-radius: 2px;
-    transition: all 0.3s ease;
+    height: 2px;
+    background: var(--text);
+    border-radius: 1px;
+    transition: all 0.2s ease;
 }
 
 .mobile-menu-toggle.active span:nth-child(1) {
@@ -471,22 +472,14 @@ tr:hover {
     }
 
     /* Mobile overlay */
-    .sidebar::before {
+    .sidebar.active::before {
         content: '';
         position: fixed;
         top: 0;
         left: 0;
         right: 0;
         bottom: 0;
-        background: rgba(0, 0, 0, 0.5);
-        opacity: 0;
-        pointer-events: none;
-        transition: opacity 0.3s ease;
+        background: transparent;
         z-index: -1;
-    }
-
-    .sidebar.active::before {
-        opacity: 1;
-        pointer-events: auto;
     }
 }
