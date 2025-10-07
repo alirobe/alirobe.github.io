@@ -33,3 +33,4 @@ subtitle: Stuff to help you with Power Platform
 
 * [Power Platform Community](https://community.powerplatform.com/forums)
 * [Power Platform Subreddits](https://www.reddit.com/r/Dataverse+MicrosoftFlow+PowerApps+PowerAutomate+PowerBI+PowerPlatform/)
+
