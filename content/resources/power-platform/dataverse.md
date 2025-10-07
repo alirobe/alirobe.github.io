@@ -6,7 +6,11 @@ link: Dataverse / CRM
 title: Dataverse / CRM
 ---
 
-## Tools
+## Official learning resources
+
+* [Dataverse](https://learn.microsoft.com/en-us/training/dataverse/)
+
+## Tools / tool lists
 
 * Awesome Dynamics CRM / Dataverse list: [github.com/Elcaten/awesome-dynamics-crm](https://github.com/Elcaten/awesome-dynamics-crm)
 * [XrmToolBox](https://www.xrmtoolbox.com/) - a popular tool with many plugins for managing Dataverse environments
