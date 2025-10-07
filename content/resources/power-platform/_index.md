@@ -1,11 +1,15 @@
 ---
 type: resources
 restype: power
-link: Power Platform Overview
+link: Power Platform overview
 order: 1
-title: Power Platform Resources
-subtitle: Stuff to help you with Power Platform
+title: Power Platform resources
+subtitle: Resources for Power Platform
 ---
+
+## Power Platform resources
+
+Resources for working with Power Platform, including learning paths, governance guidance, and useful tools.
 
 ## Official learning resources
 
@@ -16,10 +20,10 @@ subtitle: Stuff to help you with Power Platform
 
 * [Microsoft Power Platform YouTube](https://www.youtube.com/@MicrosoftPowerPlatform)
 * [Power Platform Blog](https://powerplatform.microsoft.com/en-us/blog/)
-* April Dunnam: [YouTube](https://www.youtube.com/@AprilDunnam/playlists), [Blog](<https://www.sharepointsiren.com/>), [Coffee](https://buymeacoffee.com/aprildunnam)
+* April Dunnam: [YouTube](https://www.youtube.com/@AprilDunnam/playlists), [Blog](https://www.sharepointsiren.com/), [Coffee](https://buymeacoffee.com/aprildunnam)
 * Reza Dorrani: [YouTube](https://www.youtube.com/@RezaDorrani/playlists), [Blog](https://rezadorrani.com/), [YT Memberships](https://www.youtube.com/rezadorrani/join)
 * Lisa Crosbie: [YouTube](https://www.youtube.com/@LisaCrosbie/playlists), [LinkedIn](https://www.linkedin.com/in/lisa-crosbie/), [BuyMeACoffee](https://buymeacoffee.com/lisacrosbie)
-* PowerApps + PowerShell: [Shane Young](https://www.youtube.com/@ShanesCows/playlists) [PowerApps911](https://www.powerapps911.com/blog)
+* PowerApps + PowerShell: [Shane Young](https://www.youtube.com/@ShanesCows/playlists), [PowerApps911](https://www.powerapps911.com/blog)
 
 ## Communities
 
@@ -32,12 +36,12 @@ subtitle: Stuff to help you with Power Platform
 
 ## Tools
 
-* [Power Platform CLI](https://learn.microsoft.com/en-us/power-platform/developer/cli/introduction-power-platform-cli) - command line interface for all of Power Platform.
-* My [Dataverse Solution Scanner](https://github.com/alirobe/dataverse-solution-scanner)
+* [Power Platform CLI](https://learn.microsoft.com/en-us/power-platform/developer/cli/introduction-power-platform-cli)
+* [Dataverse Solution Scanner](https://github.com/alirobe/dataverse-solution-scanner)
 
 ## Developer tool lists
 
-* [Azure Integration Services](https://www.youtube.com/watch?v=sbqhJsWhKAs) - Infrastructure-grade integration for Dataverse and third parties.
+* [Azure Integration Services](https://www.youtube.com/watch?v=sbqhJsWhKAs)
 * [Awesome Lists](https://github.com/sindresorhus/awesome)
 * [Awesome CSV](https://github.com/awesome/awesome-csv)
 * [Awesome JSON](https://github.com/burningtree/awesome-json)

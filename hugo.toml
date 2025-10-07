@@ -6,7 +6,7 @@ title = "Ali Robertson"
 disableKinds = ["taxonomy", "term"]
 
 [params]
-  description = "System Architect & Tech Strategist. Helping organisations find a clear path through their information management & software development journeys."
+  description = "Melbourne-based technical architect and developer specialising in Microsoft 365, Dynamics 365, and Power Platform. Helping organisations find a clear path through their Microsoft tech."
   author = "Ali Robertson"
   email = "ali@ali.id.au"
   twitter_username = "alirobe"

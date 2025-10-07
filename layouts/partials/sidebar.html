@@ -17,7 +17,7 @@
         <ul>
             <li><a href="/" {{ if eq .RelPermalink "/" }}class="active"{{ end }}>Home</a></li>
             <li>
-                <a href="/resources/">Resources (WIP)</a> 
+                <a href="/resources/">Resources</a> 
                 {{- if or (hasPrefix .RelPermalink "/resources/") (eq .RelPermalink "/resources/") -}}
                 <ul>
                     <li>

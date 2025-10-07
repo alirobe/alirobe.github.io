@@ -2,18 +2,20 @@
 title: "Ali Robertson"
 ---
 
-G'day! 👦🏽
+G'day!
 
-I'm an Aussie system architect and tech strategist who's been working with Microsoft technologies for over 20 years. I help organisations navigate their tech journeys - particularly around **Microsoft 365**, **Dynamics 365**, **SharePoint**, **Teams**, and the **Power Platform**.
+I'm an Aussie technical architect and developer. I've been working with Microsoft technologies for over 20 years. I help organisations find a clear path to make their Microsoft tech work for them. This means I spend a lot of time working with Microsoft 365, Power Platform, SharePoint, Dataverse, and  Dynamics 365 CRM.
 
-I love solving problems and connecting people with the right solutions. Whether it's designing system integrations, streamlining business processes, or just figuring out how to make existing tech work better - I'm here for it.
+## What I do
 
-### What I Do
+I work on Microsoft platform architecture, architecting solutions, and helping teams make sense of their stack. I've built and led development teams working with C#, TypeScript, and various other technologies; and I have a background in DevOps/SRE and full stack development.
 
-I work on things like system architecture, information management, business process automation, and helping teams make sense of their Microsoft stack. I've built and led development teams working with C#, TypeScript, and various other technologies, with some background in DevOps/SRE and web stuff.
+Right now I'm focusing on integration and automation using Power Platform, Azure Integration Services, and custom development. I also do a lot of work around governance/ALM, security, and compliance.
 
-### Community Involvement
+## Community
 
-I run several tech communities and love helping people learn and connect (check out [Communities](/communities/) for more). I also have a strong interest in supporting Australian indigenous businesses and learning from indigenous culture.
+I run several tech communities and love helping people learn and connect. I also have a strong interest in supporting Australian indigenous businesses and learning from indigenous culture.
 
-If you're working on something interesting or need a hand with Microsoft tech, feel free to reach out - I'm always keen for a chat about tech challenges and solutions.
+Check out the [communities I'm involved in](/communities/) or browse the [resources I've put together](/resources/).
+
+If you're working on something interesting or need a hand with your Microsoft tech, [get in touch](/contact/).

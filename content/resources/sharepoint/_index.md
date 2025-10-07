@@ -1,14 +1,14 @@
 ---
 type: resources
 restype: sharepoint
-title: SharePoint Resources
+title: SharePoint resources
 link: Home
 order: 0
 ---
 
-## Useful SharePoint Resources
+## SharePoint resources
 
-A curated collection of trusted resources for end users, admins, and developers. I also contribute to the [SharePoint Wikipedia Page](https://en.wikipedia.org/wiki/Microsoft_SharePoint).
+A collection of resources I've found helpful for working with SharePoint, organised by role and use case.
 
 ### Browse by role
 
@@ -18,6 +18,6 @@ A curated collection of trusted resources for end users, admins, and developers.
 
 ### Contribute
 
-Improve this list with a [GitHub issue](https://github.com/alirobe/alirobe.github.io/issues), or [contact me](/) to suggest changes.
+If you've found something useful that's not listed here, [open an issue on GitHub](https://github.com/alirobe/alirobe.github.io/issues) or [get in touch](/contact/).
 
-I hope you find this useful :)
+I also contribute to the [SharePoint Wikipedia page](https://en.wikipedia.org/wiki/Microsoft_SharePoint).

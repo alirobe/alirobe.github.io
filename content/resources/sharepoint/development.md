@@ -9,7 +9,6 @@ subtitle: SPFx, PnP, APIs, and dev tools
 
 ## Build better SharePoint solutions
 
-Focused links for SPFx, PnP, and Microsoft 365 development—learn, scaffold, test, and ship.
 
 ### Training
 
