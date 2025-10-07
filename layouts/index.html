@@ -4,9 +4,14 @@
 {{ partial "head.html" . }}
 </head>
 <body>
+<div class="layout-container">
+{{ partial "sidebar.html" . }}
+<div class="main-container">
 <main>
 {{ .Content }}
 </main>
 {{ partial "footer.html" . }}
+</div>
+</div>
 </body>
 </html>

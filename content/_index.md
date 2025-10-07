@@ -1,38 +1,19 @@
 ---
 title: "Ali Robertson"
 ---
-<aside class="profile-image" role="img" aria-labelledby="profile-heading">
-    <img src="/assets/ali-robertson.jpg"  alt="Professional headshot of Ali Robertson, an Australian system architect and tech strategist" width="200" height="200" loading="eager" />
-</aside>
-
-##  Ali Robertson
 
 G'day! 👦🏽
 
-I'm an Aussie system architect and consulting tech strategist.
+I'm an Aussie system architect and tech strategist who's been working with Microsoft technologies for over 20 years. I help organisations navigate their tech journeys - particularly around **Microsoft 365**, **Dynamics 365**, **SharePoint**, **Teams**, and the **Power Platform**.
 
-I like to help organisations find a clear path through their information management & software development journeys.
+I love solving problems and connecting people with the right solutions. Whether it's designing system integrations, streamlining business processes, or just figuring out how to make existing tech work better - I'm here for it.
 
-I am enthusiastically focused on MS tech: MS 365, Dynamics 365, Azure, Power Platform, and really happy to share that passion with others.
+### What I Do
 
-### Resources I maintain
+I work on things like system architecture, information management, business process automation, and helping teams make sense of their Microsoft stack. I've built and led development teams working with C#, TypeScript, and various other technologies, with some background in DevOps/SRE and web stuff.
 
-* [SharePoint resources library](/resources/sharepoint/)
-* [Power Platform resources library](/resources/power-platform/)
-* [Some Microsoft 365 resources (WIP)](/resources/m365/)
-* [Windows resources (WIP)](/resources/windows/)
-* [gists](https://gist.github.com/alirobe/public?direction=desc&sort=updated) / [github](https://github.com/alirobe)
+### Community Involvement
 
-### Communities I run
+I run several tech communities and love helping people learn and connect (check out [Communities](/communities/) for more). I also have a strong interest in supporting Australian indigenous businesses and learning from indigenous culture.
 
-* [/r/microsoft365 (15k members)](//microsoft365.reddit.com)
-* [/r/dynamics365 (12k)](//dynamics365.reddit.com)
-* [Dynamics 365 + Power Platform Discord (1.2k)](//discord.gg/sPSYyYgU39)
-
-### Profile / contact info
-
-* [github](//github.com/alirobe)
-* [linkedin](//www.linkedin.com/in/alirobe)
-* [bluesky](//bsky.app/profile/ali.id.au)
-* [ko-fi](//ko-fi.com/alirobe)
-* [email](mailto:ali@ali.id.au)
+If you're working on something interesting or need a hand with Microsoft tech, feel free to reach out - I'm always keen for a chat about tech challenges and solutions.
