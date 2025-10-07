@@ -31,6 +31,7 @@ Get-togethers are a great way to learn, network, and get inspired.
 * Check [Meetup](https://www.meetup.com/find/?keywords=microsoft&source=EVENTS) for 'Microsoft Events'.
 * Official yearly events: [Ignite](https://ignite.microsoft.com/) (+ local Ignite Roadshow events), [Worldwide Partner Conference](https://partner.microsoft.com/), and [SPTechCon](http://www.sptechcon.com/)
 * For conference recordings: [Microsoft Learn Events](https://learn.microsoft.com/events/)
+* [Community Days](https://www.communitydays.org/)
 
 ### News and updates
 

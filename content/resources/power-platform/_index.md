@@ -29,8 +29,19 @@ subtitle: Stuff to help you with Power Platform
 
 * [Power Platform Center of Excellence](https://learn.microsoft.com/en-us/power-platform/guidance/coe/starter-kit)
 
-### Communities
+## Some Key Tools
+
+* [Power Platform CLI](https://learn.microsoft.com/en-us/power-platform/developer/cli/introduction-power-platform-cli) - command line interface for all of Power Platform.
+
+## Developer tool lists
+
+* [Azure Integration Services](https://www.youtube.com/watch?v=sbqhJsWhKAs) - Infrastructure-grade integration for Dataverse and third parties.
+* [Awesome Lists](https://github.com/sindresorhus/awesome)
+* [Awesome CSV](https://github.com/awesome/awesome-csv)
+* [Awesome JSON](https://github.com/burningtree/awesome-json)
+* [Awesome Power Platform](https://github.com/Power-Maverick/awesome-power-platform)
+
+## Communities
 
 * [Power Platform Community](https://community.powerplatform.com/forums)
 * [Power Platform Subreddits](https://www.reddit.com/r/Dataverse+MicrosoftFlow+PowerApps+PowerAutomate+PowerBI+PowerPlatform/)
-
