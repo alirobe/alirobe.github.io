@@ -5,6 +5,9 @@ title = "Ali Robertson"
 # Disable taxonomy pages
 disableKinds = ["taxonomy", "term"]
 
+# Enable robots.txt generation
+enableRobotsTXT = true
+
 [params]
   description = "Melbourne-based technical architect and developer specialising in Microsoft 365, Dynamics 365, and Power Platform. Helping organisations find a clear path through their Microsoft tech."
   author = "Ali Robertson"
