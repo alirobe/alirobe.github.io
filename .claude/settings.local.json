@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(hugo:*)",
+      "Bash(find:*)",
+      "Bash(~/.local/bin/hugo --gc --minify)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

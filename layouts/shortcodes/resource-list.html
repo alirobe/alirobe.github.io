@@ -1,0 +1,11 @@
+{{- $restype := .Get "restype" -}}
+{{- $currentPage := .Page -}}
+{{- $pages := where .Site.Pages "Params.restype" $restype -}}
+{{- $pages = where $pages "Params.link" "!=" nil -}}
+{{- $pages = where $pages "RelPermalink" "!=" $currentPage.RelPermalink -}}
+{{- range sort $pages "Params.order" -}}
+<li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <span>- {{ .Params.subtitle }}</span>
+</li>
+{{- end -}}

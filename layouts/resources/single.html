@@ -1,0 +1,17 @@
+{{ define "subnav" }}
+<header class="subnav">
+<nav>
+{{- $restype := .Params.restype -}}
+{{- $pages := where .Site.Pages "Params.restype" $restype -}}
+{{- range sort $pages "Params.order" -}}
+{{- if .Params.link -}}
+<a href="{{ .RelPermalink }}" {{ if eq $.RelPermalink .RelPermalink }}aria-current="page"{{ end }} title="{{ .Params.subtitle }}">{{ .Params.link }}</a>
+{{ end -}}
+{{- end -}}
+</nav>
+</header>
+{{ end }}
+
+{{ define "main" }}
+{{ .Content }}
+{{ end }}

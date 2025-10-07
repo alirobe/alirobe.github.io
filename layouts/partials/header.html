@@ -1,0 +1,13 @@
+<header class="breadcrumbs">
+<div>
+    {{- $url := replace .RelPermalink "/index.html" "" -}}
+    {{- $parts := split (trim $url "/") "/" -}}
+    <a href="/">Ali Robertson</a> &rarr; {{ range $index, $crumb := $parts -}}
+        {{- if eq $index (sub (len $parts) 1) }}
+    {{ $.Title }}
+        {{- else -}}
+            {{- $path := delimit (first (add $index 1) $parts) "/" }}
+    <a href="/{{ $path }}/">{{ replace (title $crumb) "-" " " }}</a> &rarr; {{ end -}}
+    {{- end -}}
+</div>
+</header>

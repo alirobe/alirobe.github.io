@@ -1,0 +1,26 @@
+baseURL = "https://www.ali.id.au/"
+languageCode = "en-au"
+title = "Ali Robertson"
+
+# Disable taxonomy pages
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  description = "System Architect & Tech Strategist. Helping organisations find a clear path through their information management & software development journeys."
+  author = "Ali Robertson"
+  email = "ali@ali.id.au"
+  twitter_username = "alirobe"
+  github_username = "alirobe"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[permalinks]
+  page = "/:sections[last]/"
+
+[outputs]
+  home = ["HTML"]
+  page = ["HTML"]
+  section = ["HTML"]

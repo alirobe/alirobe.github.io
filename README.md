@@ -11,13 +11,16 @@ It includes a [SharePoint resources library](https://www.ali.id.au/sharepoint-re
 
 ## Local development
 
-In Ubuntu (or WSL Ubuntu) run:
+This site is built with Hugo. To run locally:
+
+1. [Install Hugo](https://gohugo.io/installation/) (extended version recommended)
+2. Run the development server:
 
 ```bash
-sudo apt install -y ruby-full build-essential zlib1g-dev make gcc g++ ruby-bundler
-sudo gem install bundler jekyll jekyll-seo-tag jekyll-sitemap jekyll-feed
-jekyll serve --watch --livereload --force_polling
+hugo server
 ```
+
+The site will be available at `http://localhost:1313` with live reload enabled.
 
 ## Contribute
 

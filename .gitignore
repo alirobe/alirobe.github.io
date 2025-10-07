@@ -1,3 +1,9 @@
+# Hugo
+public/
+resources/_gen/
+.hugo_build.lock
+
+# Jekyll (old)
 _site
 .sass-cache
 .jekyll-metadata

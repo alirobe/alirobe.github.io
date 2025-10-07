@@ -1,0 +1,81 @@
+* {
+    font-family: "Barlow", system-ui, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 400 ;
+}
+
+body > header.breadcrumbs {
+    text-align: left;
+    grid-template-columns:1fr min(45rem, 90%) 1fr;
+    display: grid;
+}
+
+body > header.breadcrumbs > div {
+    grid-column: 2;
+    width: 100%;
+}
+
+.profile-image {
+    padding: 0;
+    border: 0;
+    background: none;
+}
+
+.profile-image img {
+    width: 200px;
+    border-radius: 50%;
+    margin: 1rem;
+}
+header.subnav {
+    padding: 0 0.5rem;
+}
+
+header.subnav :only-child {
+    margin-block-start: 0;
+}
+
+.post-link {
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.meta {
+    color: var(--text-light);
+    font-size: 1rem;
+}
+
+.blog-item {
+    margin-bottom: 4rem;
+}
+
+nav a.current {
+    color: var(--accent) !important;
+    border-color: var(--accent) !important;
+}
+
+.medium {
+    font-size: 1.4rem;
+}
+
+.small {
+    font-size: 1rem;
+}
+
+.icon {
+    vertical-align: sub;
+    padding-right: .25rem;
+    display: inline-block;
+    width: 1em;
+    height: 1.3em;
+    margin-right: 0.2rem;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+}
