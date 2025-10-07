@@ -1,4 +1,5 @@
 const CACHE_NAME = 'ali-site-v1';
+const CACHE_DURATION = 24 * 60 * 60 * 1000; // 24 hours in milliseconds
 
 // Install event - cache everything
 self.addEventListener('install', (event) => {
@@ -74,12 +75,35 @@ self.addEventListener('fetch', (event) => {
 
   event.respondWith(
     caches.match(event.request).then((cached) => {
+      // Check if cached response has expired
+      if (cached) {
+        const cachedDate = cached.headers.get('sw-cache-date');
+        if (cachedDate) {
+          const cacheAge = Date.now() - parseInt(cachedDate);
+          if (cacheAge > CACHE_DURATION) {
+            // Cache expired, delete it
+            caches.open(CACHE_NAME).then(cache => cache.delete(event.request));
+            cached = null;
+          }
+        }
+      }
+
       // Fetch in background to update cache
       const fetchPromise = fetch(event.request).then((response) => {
         const responseToCache = response.clone();
 
         caches.open(CACHE_NAME).then((cache) => {
-          cache.put(event.request, responseToCache);
+          // Add timestamp header to track cache age
+          const headers = new Headers(responseToCache.headers);
+          headers.set('sw-cache-date', Date.now().toString());
+
+          const timestampedResponse = new Response(responseToCache.body, {
+            status: responseToCache.status,
+            statusText: responseToCache.statusText,
+            headers: headers
+          });
+
+          cache.put(event.request, timestampedResponse);
         });
 
         return response;
