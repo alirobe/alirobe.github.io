@@ -23,7 +23,7 @@ subtitle: Power Automate / Microsoft Flow Resources
 * [Power Automate Community](https://powerusers.microsoft.com/) - forums for asking questions and sharing knowledge
 * [Power Automate + Microsoft Flow Subreddits](https://www.reddit.com/r/PowerAutomate+MicrosoftFlow/)
 * [ILoveAutomation Discord (v/active)](https://discord.com/invite/iloveautomation)
-* [Dynamics 365 + Power Platform Discord (1.2k)](//discord.gg/sPSYyYgU39)
+* [Dynamics 365 + Power Platform Discord](//discord.gg/sPSYyYgU39)
 
 ## Tools
 

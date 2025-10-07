@@ -29,6 +29,7 @@ Resources for working with Power Platform, including learning paths, governance 
 
 * [Power Platform Community](https://community.powerplatform.com/forums)
 * [Power Platform Subreddits](https://www.reddit.com/r/Dataverse+MicrosoftFlow+PowerApps+PowerAutomate+PowerBI+PowerPlatform/)
+* [Dynamics 365 + Power Platform Discord](https://discord.gg/sPSYyYgU39)
 
 ## Governance
 
