@@ -103,14 +103,14 @@ html {
 
 ::view-transition-old(root),
 ::view-transition-new(root) {
-    animation-duration: 0.1s;
+    animation-duration: 0.15s;
 }
 
-@media (max-width: 768px) { 
-    ::view-transition-old(root),
-    ::view-transition-new(root) {
-        animation-duration: 0s;
-    }
+::view-transition-old(root) {
+    animation-name: none;
+}
+::view-transition-new(root) {
+    animation-name: none;
 }
 /* https://grainy-gradients.vercel.app/noise.svg */
 body {

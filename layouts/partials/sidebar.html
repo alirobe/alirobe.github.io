@@ -80,3 +80,5 @@
         <li><a href="mailto:ali@ali.id.au" title="Email"><img loading="lazy" src="https://cdn.simpleicons.org/gmail/808080" alt="Email" width="20" height="20"></a></li>
     </ul>
 </aside>
+{{- $menu := resources.Get "js/menu.js" | resources.Minify -}}
+<script>{{ $menu.Content | safeJS }}</script>
