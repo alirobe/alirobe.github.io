@@ -1,0 +1,50 @@
+{{ define "main" }}
+<div class="content-wrapper">
+  <article class="content">
+    <h1>Page Not Found</h1>
+    <p>The page you're looking for doesn't exist. You might have followed an old link or mistyped the URL.</p>
+    <p><a href="/">Return to home page</a></p>
+  </article>
+</div>
+
+<script>
+(function() {
+  const redirects = [
+    // old page, new page
+    // ['resoures/sharepoint/']
+  ];
+  const replacements = [
+    // old pattern, new pattern
+    ['/sharepoint-resources/', '/resources/m365-sharepoint/'],
+    ['/sharepoint/', '/m365-sharepoint/'],
+    ['/power-platform/', '/d365-power-platform/'],
+  ];
+
+  const currentPath = window.location.pathname;
+
+  // Check for exact match
+  const redirect = redirects.find(r => r[0] === currentPath);
+  if (redirect) {
+    window.location.replace(redirect[1]);
+  } else {
+    // handle multiple replacements
+    let newPath = currentPath;
+    let replaced = false;
+    replacements.forEach(([oldPart, newPart]) => {
+      if (newPath.includes(oldPart)) {
+        newPath = newPath.replace(oldPart, newPart);
+        replaced = true;
+      }
+    });
+    if (replaced) {
+      window.location.replace(newPath);
+    }
+    else {
+      console.error('No redirect or replacement found for', currentPath);
+    }
+  }
+
+
+})();
+</script>
+{{ end }}

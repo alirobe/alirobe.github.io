@@ -21,8 +21,8 @@
                 {{- if or (hasPrefix .RelPermalink "/resources/") (eq .RelPermalink "/resources/") -}}
                 <ul>
                     <li>
-                        <a href="/resources/sharepoint/"{{if eq .RelPermalink "/resources/sharepoint/"}} class="active"{{end}}>SharePoint</a>
-                        {{- if hasPrefix .RelPermalink "/resources/sharepoint/" -}}
+                        <a href="/resources/m365-sharepoint/"{{if eq .RelPermalink "/resources/m365-sharepoint/"}} class="active"{{end}}>MS365 + SharePoint</a>
+                        {{- if hasPrefix .RelPermalink "/resources/m365-sharepoint/" -}}
                         <ul>
                             {{- $pages := where .Site.Pages "Section" "resources" -}}
                             {{- $pages = where $pages "Params.restype" "sharepoint" -}}
@@ -35,8 +35,8 @@
                         {{- end -}}
                     </li>
                     <li>
-                        <a href="/resources/power-platform/"{{if eq .RelPermalink "/resources/power-platform/"}} class="active"{{end}}>Power Platform</a>
-                        {{- if hasPrefix .RelPermalink "/resources/power-platform/" -}}
+                        <a href="/resources/d365-power-platform/"{{if eq .RelPermalink "/resources/d365-power-platform/"}} class="active"{{end}}>D365 + Power Platform</a>
+                        {{- if hasPrefix .RelPermalink "/resources/d365-power-platform/" -}}
                         <ul>
                             {{- $pages := where .Site.Pages "Section" "resources" -}}
                             {{- $pages = where $pages "Params.restype" "power" -}}

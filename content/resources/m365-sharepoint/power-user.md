@@ -2,8 +2,8 @@
 type: resources
 restype: sharepoint
 order: 1
-link: Power users
-title: Power users
+link: SP Power users
+title: SharePoint power users
 subtitle: Practical guidance for making SharePoint work better
 ---
 

@@ -15,13 +15,11 @@ News, conferences, and groups to keep you current.
 
 Visit these online groups.
 
-* Microsoft patterns and practices community [Discord](https://aka.ms/community/discord) [YouTube](https://www.youtube.com/@MicrosoftCommunityLearning/playlists) [GitHub](https://github.com/pnp)
-* Microsoft Tech Community – [SharePoint hub](https://techcommunity.microsoft.com/category/content_management)
-* [SharePoint subreddit](https://old.reddit.com/r/sharepoint/) + [Discord](https://discord.gg/7FqFA9rQzR)
-* [Office 365 subreddit](https://old.reddit.com/r/Office365/)
-* [Microsoft 365 subreddit](https://old.reddit.com/r/Microsoft365/)
-* [Power Automate subreddit](https://old.reddit.com/r/PowerAutomate/)
+* Microsoft patterns and practices community [Website](https://pnp.github.io/), [YouTube](https://www.youtube.com/@MicrosoftCommunityLearning/playlists), [GitHub](https://github.com/pnp),  [Discord](https://aka.ms/community/discord)
+* [Microsoft Tech Community – SharePoint](https://techcommunity.microsoft.com/category/content_management)
 * [SharePoint Stack Exchange](https://sharepoint.stackexchange.com/)
+* [SharePoint subreddit](https://old.reddit.com/r/sharepoint/) + [Discord](https://discord.gg/7FqFA9rQzR)
+* [Microsoft 365 subreddit](https://old.reddit.com/r/Microsoft365/)
 
 ### Conferences
 

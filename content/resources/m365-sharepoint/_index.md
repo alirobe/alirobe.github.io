@@ -1,7 +1,7 @@
 ---
 type: resources
 restype: sharepoint
-title: SharePoint resources
+title: MS365 + SharePoint resources
 link: Home
 order: 0
 ---

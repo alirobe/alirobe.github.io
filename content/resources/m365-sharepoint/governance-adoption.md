@@ -7,7 +7,7 @@ title: Governance & Adoption
 subtitle: Plan information architecture, rollouts & change comms
 ---
 
-## SP Governance, IA + adoption
+## Governance, IA + adoption
 
 Curated guidance for successful rollouts: Information Architecture, practical governance approaches, change communications, and user adoption strategies.
 
