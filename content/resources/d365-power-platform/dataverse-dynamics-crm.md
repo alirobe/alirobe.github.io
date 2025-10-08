@@ -25,7 +25,7 @@ subtitle: Dataverse and Dynamics 365 CRM resources
 
 ## Add-ons & extensions
 
-* [ClickDimensions](https://clickdimensions.com/dynamics-365-marketing/) - marketing automation for Dynamics 365
+* [ClickDimensions](https://clickdimensions.com/) - marketing automation for Dynamics 365
 * [HCL PowerObjects](https://powercare.powerobjects.com/PowerPack) - productivity and usability add-ons
 * [Xpertdoc](https://www.experlogix.com/integrations/document-automation-microsoft-dynamics-365) - document generation
 * [Inogic](https://www.inogic.com/) - productivity and usability add-ons

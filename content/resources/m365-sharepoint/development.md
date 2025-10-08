@@ -37,9 +37,9 @@ subtitle: Build better custom apps with SPFx, PnP, APIs, and dev tools
 
 ## Frameworks and packaged solutions
 
-* **[PnP Starter Kit](https://github.com/pnp/sp-starter-kit) (Microsoft 365)**
-* **[PnP SPFx Webparts](https://github.com/pnp/sp-dev-fx-webparts)**
-* **[PnP Starter Intranet](https://github.com/SharePoint/PnP/tree/master/Solutions/Business.StarterIntranet) (2016+)**
+* [PnP Starter Kit](https://github.com/pnp/sp-starter-kit) (Microsoft 365)
+* [PnP SPFx Webparts](https://github.com/pnp/sp-dev-fx-webparts)
+* [PnP Starter Intranet](https://github.com/SharePoint/PnP/tree/master/Solutions/Business.StarterIntranet) (2016+)
 * [Sprocket](https://sprocket365.com) -- note, I helped make this
 * [Involv](https://www.involv-intranet.com/)
 * [Omnia](https://www.omniaintranet.com/)
@@ -52,15 +52,15 @@ subtitle: Build better custom apps with SPFx, PnP, APIs, and dev tools
 * [Andrew Connell](https://www.andrewconnell.com/) ([github](https://github.com/andrewconnell))
 * [Chris O’Brien](https://www.sharepointnutsandbolts.com/)
 * [Christian Stahl](https://chrisstahl.wordpress.com)
-* [David Drever](https://prairiedeveloper.com/)
+* [David Drever](https://daviddrever.com/)
 * [David Lozzi](https://davidlozzi.com)
 * [Elio Struyf](https://www.eliostruyf.com) ([github](https://github.com/estruyf))
 * [John Liu](https://johnliu.net) - [YouTube](https://www.youtube.com/c/JohnLiu/playlists) ([github](https://github.com/johnnliu))
 * [Julie Turner](https://julieturner.net/)
 * [Marc Anderson](https://sympmarc.com/)
-* [Stefan Bauer](https://www.n8d.at/blog/) ([github](https://github.com/StfBauer?tab=repositories))
+* [Stefan Bauer](https://n8d.at/blog/) ([github](https://github.com/StfBauer?tab=repositories))
 * [Thomas Daly](https://thomasdaly.net)
-* **MSFT SPFx Lead [Vesa Junoven](https://blogs.msdn.microsoft.com/vesku/)**
+* MSFT SPFx Lead [Vesa Junoven](https://learn.microsoft.com/archive/blogs/vesku)
 * [Waldek Mastykarz](https://blog.mastykarz.nl) & [Mavention](https://www.mavention.com/blog)
 * [Wictor Wilen](https://www.wictorwilen.se/)
 * [Yaroslav Pentsarskyy](https://www.origamiconnect.com/articles)

@@ -37,7 +37,7 @@ Keep up to date with these feeds.
 * [Official SP Community Blog](https://techcommunity.microsoft.com/category/content_management/blog/spblog) (+ Podcasts / YouTubes)
 * [Official 'Microsoft Mechanics' YouTube](https://www.youtube.com/@MSFTMechanics)
 * [Official MS 365 Community Call YouTube](https://www.youtube.com/@MicrosoftCommunityLearning)
-* [Sharegate blog](https://sharegate.com/blog/)
+* [Sharegate blog](https://sharegate.com/blog)
 * [Medium: SharePoint](https://medium.com/tag/sharepoint)
 * Twitter: [#SharePoint](https://x.com/search?q=%23sharepoint) [#sphelp](https://x.com/search?q=%23sphelp) ([@alirobe's influencer list](https://twitter.com/alirobe/lists/sharepoint-influencers/members))
 * Bluesky: [SharePoint](https://bsky.app/search?q=%23SharePoint) ([bluesky.ms](https://bluesky.ms/))

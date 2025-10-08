@@ -35,7 +35,7 @@ Keep updated with these sources.
 * [Official MS 365 Blog](https://www.microsoft.com/en-au/microsoft-365/blog/) (+ Podcasts / YouTubes)
 * [Official SP Community Blog](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/bg-p/SPBlog) (+ Podcasts / YouTubes)
 * [JumpTo365](https://www.jumpto365.com/blog) ([YouTube](https://www.youtube.com/channel/UCYGPjbW66h40L4dOt2N_kyw))
-* [Sharegate blog (Benjamin Niaulin)](https://sharegate.com/blog/)
+* [Sharegate blog](https://sharegate.com/blog)
 * [Rencore blog (Many influencers! Waldek Mastykarz, Tobias Zimmergren, and more)](https://rencore.com/blog/)
 * [Step Two blog (James Robertson)](https://www.steptwo.com.au/columntwo/) ([slideshare](https://www.slideshare.net/jamesr)) + Intranet Awards
 * [NN Group Intranet Awards](https://www.nngroup.com/articles/intranet-design/)

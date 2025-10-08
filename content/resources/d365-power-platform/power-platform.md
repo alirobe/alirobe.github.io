@@ -23,7 +23,7 @@ subtitle: Learning paths, communities, and governance
 
 ## Communities
 
-* [Power Platform Community](https://community.powerplatform.com/forums)
+* [Power Platform Community](https://community.powerplatform.com/forums/)
 * [Power Platform Subreddits](https://www.reddit.com/r/Dataverse+MicrosoftFlow+PowerApps+PowerAutomate+PowerBI+PowerPlatform/)
 * [Dynamics 365 + Power Platform Discord](https://discord.gg/sPSYyYgU39)
 

@@ -32,7 +32,7 @@ It's important to patch as needed, and patching does require manual intervention
 
 * [On-prem Powershell Module](https://learn.microsoft.com/powershell/sharepoint/sharepoint-server/sharepoint-server-cmdlets)
 * [Archived PnP PowerShell Module (on-prem support)](https://github.com/pnp/PnP-PowerShell)
-* [Syskit SPDocKit](https://www.syskit.com/products/spdockit)
+* [Syskit SPDocKit](https://www.syskit.com/products/spdockit/)
 * [Rencore Governance](https://rencore.com/)
 * [Awesome SharePoint](https://github.com/BSUG/awesome-sharepoint)
 * Chrome Extension: [SP Editor](https://chrome.google.com/webstore/detail/sp-editor/ecblfcmjnbbgaojblcpmjoamegpbodhd?hl=en)
@@ -57,6 +57,6 @@ It's important to patch as needed, and patching does require manual intervention
 ## Classic branding resources
 
 * [Official Responsive UI Package for SP 2016 On-Premesis](https://github.com/pnp/PnP-Tools/blob/master/Solutions/SharePoint.UI.Responsive/)
-* [Dev Workflow Guide by Stefan Bauer](https://www.n8d.at/blog/how-i-develop-in-sharepoint-and-office-365-now/)
+* [Dev Workflow Guide by Stefan Bauer](https://n8d.at/blog/how-i-develop-in-sharepoint-and-office-365-now/)
 * [CSS Chart (via web archive)](https://web.archive.org/web/20181117202055/https://sharepointexperience.com/csschart/csschart.html)
 * [Drisgill](https://blog.drisgill.com)
