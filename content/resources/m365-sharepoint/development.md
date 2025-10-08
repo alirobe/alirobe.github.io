@@ -57,22 +57,21 @@ subtitle: SPFx, PnP, APIs, and dev tools
 
 ### Bloggers
 
-* MVP [Andrew Connell](http://www.andrewconnell.com/) ([github](https://github.com/andrewconnell))
-* MVP [Chris O’Brien](http://www.sharepointnutsandbolts.com/)
-* MVP [Christian Stahl](http://chrisstahl.wordpress.com)
-* MVP [David Drever](http://prairiedeveloper.com/)
-* Community [David Lozzi](https://davidlozzi.com)
-* MVP [Elio Struyf](http://www.eliostruyf.com) ([github](https://github.com/estruyf))
-* MVP [John Liu](http://johnliu.net), [YouTube](https://www.youtube.com/c/JohnLiu/playlists) ([github](https://github.com/johnnliu))
-* MVP [Julie Turner](https://julieturner.net/)
-* MVP [Marc Anderson](http://sympmarc.com/)
-* MVP [Stefan Bauer](http://www.n8d.at/blog/) ([github](https://github.com/StfBauer?tab=repositories))
-* MVP [Thomas Daly](https://thomasdaly.net)
+* [Andrew Connell](http://www.andrewconnell.com/) ([github](https://github.com/andrewconnell))
+* [Chris O’Brien](http://www.sharepointnutsandbolts.com/)
+* [Christian Stahl](http://chrisstahl.wordpress.com)
+* [David Drever](http://prairiedeveloper.com/)
+* [David Lozzi](https://davidlozzi.com)
+* [Elio Struyf](http://www.eliostruyf.com) ([github](https://github.com/estruyf))
+* [John Liu](http://johnliu.net) - [YouTube](https://www.youtube.com/c/JohnLiu/playlists) ([github](https://github.com/johnnliu))
+* [Julie Turner](https://julieturner.net/)
+* [Marc Anderson](http://sympmarc.com/)
+* [Stefan Bauer](http://www.n8d.at/blog/) ([github](https://github.com/StfBauer?tab=repositories))
+* [Thomas Daly](https://thomasdaly.net)
 * **MSFT SPFx Lead [Vesa Junoven](https://blogs.msdn.microsoft.com/vesku/)**
-* **MVP [Waldek Mastykarz](http://blog.mastykarz.nl)** & [Mavention](http://www.mavention.com/blog)
-* MVP [Wictor Wilen](http://www.wictorwilen.se/)
-* MVP [Yaroslav Pentsarskyy](https://www.origamiconnect.com/articles)
-* Find more at the list of [Microsoft MVPs here](https://mvp.microsoft.com/en-us/MvpSearch?ex=Office+Servers+and+Services)…
+* [Waldek Mastykarz](http://blog.mastykarz.nl) & [Mavention](http://www.mavention.com/blog)
+* [Wictor Wilen](http://www.wictorwilen.se/)
+* [Yaroslav Pentsarskyy](https://www.origamiconnect.com/articles)
 
 ### Ideas
 

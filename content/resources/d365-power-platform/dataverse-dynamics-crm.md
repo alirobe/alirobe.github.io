@@ -10,6 +10,10 @@ title: Dataverse / CRM
 
 * [Dataverse](https://learn.microsoft.com/en-us/training/dataverse/)
 
+## Unofficial
+
+* [PowerObjects CRM Book (Archived 2020)](https://web.archive.org/web/20200928152758/http://crmbook.powerobjects.com/)
+
 ## Tools / tool lists
 
 * [Awesome Dynamics CRM / Dataverse tool list](https://github.com/Elcaten/awesome-dynamics-crm)
@@ -19,15 +23,14 @@ title: Dataverse / CRM
 * [Enabling TDS endpoint for Dataverse](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/tables/tds-endpoint)
 * My [Dataverse Solution Scanner](https://github.com/alirobe/dataverse-solution-scanner) - suitable for backing up and scanning solutions for governance and best practices
 
-## Third party
+## Third party tools
 
 * [ClickDimensions - Dynamics 365 Marketing Alternative](https://clickdimensions.com/dynamics-365-marketing/) - marketing automation natively built for Dynamics 365 / Dataverse
 * [HCL PowerObjects](https://powercare.powerobjects.com/PowerPack) - productivity and usability add-ons for model-driven apps
 * [KingswaySoft](https://www.kingswaysoft.com/) - Pre-built data integrations
 * [Skyvia](https://skyvia.com/) - cloud data integration, backup, and management for Dataverse
-* cheap tools
 * [Xpertdoc](https://www.experlogix.com/integrations/document-automation-microsoft-dynamics-365) - document generation for Dataverse
-* [Data8](https://www.data-8.co.uk/) - data quality and enrichment tools for Dataverse
+* Data cleansing: [Clay](https://www.clay.com/university/guide/microsoft-dynamics-365-crm-integration-overview), [Data8](https://www.data-8.co.uk/integrations/microsoft-dynamics-crm-integration/), [DQ Global](https://www.dqglobal.com/products/dq-for-dynamics-home/dq-for-dynamics-cleanse/), [Informatica](https://www.informatica.com/), [Talend](https://www.talend.com/) - data quality and enrichment
 * [Inogic](https://www.inogic.com/) - productivity and usability add-ons for model-driven apps
 * [PowerClarity](https://powerclarity.app/) - governance for Power Platform
 governance

@@ -20,10 +20,10 @@ Resources for working with Power Platform, including learning paths, governance 
 
 * [Microsoft Power Platform YouTube](https://www.youtube.com/@MicrosoftPowerPlatform)
 * [Power Platform Blog](https://powerplatform.microsoft.com/en-us/blog/)
-* April Dunnam: [YouTube](https://www.youtube.com/@AprilDunnam/playlists), [Blog](https://www.sharepointsiren.com/), [Coffee](https://buymeacoffee.com/aprildunnam)
-* Reza Dorrani: [YouTube](https://www.youtube.com/@RezaDorrani/playlists), [Blog](https://rezadorrani.com/), [YT Memberships](https://www.youtube.com/rezadorrani/join)
-* Lisa Crosbie: [YouTube](https://www.youtube.com/@LisaCrosbie/playlists), [LinkedIn](https://www.linkedin.com/in/lisa-crosbie/), [BuyMeACoffee](https://buymeacoffee.com/lisacrosbie)
-* PowerApps + PowerShell: [Shane Young](https://www.youtube.com/@ShanesCows/playlists), [PowerApps911](https://www.powerapps911.com/blog)
+* [April Dunnam (Blog)](https://www.sharepointsiren.com/) - [YouTube](https://www.youtube.com/@AprilDunnam/playlists), [Buy a Coffee](https://buymeacoffee.com/aprildunnam)
+* [Reza Dorrani (Blog)](https://rezadorrani.com/) - [YouTube](https://www.youtube.com/@RezaDorrani/playlists), [YT Memberships](https://www.youtube.com/rezadorrani/join)
+* [Lisa Crosbie (LinkedIn)](https://www.linkedin.com/in/lisa-crosbie/) - [YouTube](https://www.youtube.com/@LisaCrosbie/playlists), [BuyMeACoffee](https://buymeacoffee.com/lisacrosbie)
+* [Shane Young (YouTube)](https://www.youtube.com/@ShanesCows/playlists) of [PowerApps911](https://www.powerapps911.com/blog)
 
 ## Communities
 

@@ -49,10 +49,10 @@ It's important to patch as needed, and patching does require manual intervention
 
 ### On‑prem / infra experts
 
-* MVP [Gary Lapointe](http://blog.falchionconsulting.com)
-* MVP [Spence Harbar](http://harbar.net/)
-* MVP [Trevor Seward](https://thesharepointfarm.com/)
-* MVP [Vlad Catrinescu](https://vladtalkstech.com/)
+* [Gary Lapointe](http://blog.falchionconsulting.com)
+* [Spence Harbar](http://harbar.net/)
+* [Trevor Seward](https://thesharepointfarm.com/)
+* [Vlad Catrinescu](https://vladtalkstech.com/)
 
 ### Migration, backup + client software
 
