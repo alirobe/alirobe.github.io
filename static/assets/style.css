@@ -103,7 +103,14 @@ html {
 
 ::view-transition-old(root),
 ::view-transition-new(root) {
-    animation-duration: 0.05s;
+    animation-duration: 0.1s;
+}
+
+@media (max-width: 768px) { 
+    ::view-transition-old(root),
+    ::view-transition-new(root) {
+        animation-duration: 0s;
+    }
 }
 
 body {
