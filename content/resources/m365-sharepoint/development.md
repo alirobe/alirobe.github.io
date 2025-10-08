@@ -13,14 +13,13 @@ subtitle: Build better custom apps with SPFx, PnP, APIs, and dev tools
 * [Patterns and Practices Resources](https://pnp.github.io/)
 * [MS 365 Dev Blog](https://devblogs.microsoft.com/microsoft365dev/)
 * [Microsoft Learn for Developers](https://learn.microsoft.com/training/roles/developer/) - structured learning paths.
-* [Microsoft Adoption Centre - Developer](https://adoption.microsoft.com/en-us/roles/developer/)
+* [Microsoft Adoption Centre - Developer](https://adoption.microsoft.com/roles/developer/)
 
 ## Extra resources
 
-* [MS 365 Developer Program - a Free MS 365 Test Environment](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
-* [React Fluent UI](https://developer.microsoft.com/en-us/fluentui)
+* [MS 365 Developer Program - a Free MS 365 Test Environment](https://developer.microsoft.com/microsoft-365/dev-program)
+* [React Fluent UI](https://developer.microsoft.com/fluentui)
 * [SP Editor](https://www.reddit.com/r/sharepoint/comments/677cq0/sp_editor_this_chrome_extension_adds_a_sharepoint/)
-* [CAML Designer](http://www.camldesigner.com/)
 
 ## Code
 
@@ -44,33 +43,33 @@ subtitle: Build better custom apps with SPFx, PnP, APIs, and dev tools
 * [Sprocket](https://sprocket365.com) -- note, I helped make this
 * [Involv](https://www.involv-intranet.com/)
 * [Omnia](https://www.omniaintranet.com/)
-* [Bonzai](http://bonzai-intranet.com/)
+* [Bonzai](https://bonzai-intranet.com/)
 * [Vendor comparison (neutral/free) - Clearbox](https://www.clearbox.co.uk/2025-intranet-report-clearbox/)
-* [Vendor selection guidance (neutral) - StepTwo](http://www.steptwo.com.au/papers/out-of-the-box-intranet-solution/)
+* [Vendor selection guidance (neutral) - StepTwo](https://www.steptwo.com.au/papers/out-of-the-box-intranet-solution/)
 
 ## Bloggers
 
-* [Andrew Connell](http://www.andrewconnell.com/) ([github](https://github.com/andrewconnell))
-* [Chris O’Brien](http://www.sharepointnutsandbolts.com/)
-* [Christian Stahl](http://chrisstahl.wordpress.com)
-* [David Drever](http://prairiedeveloper.com/)
+* [Andrew Connell](https://www.andrewconnell.com/) ([github](https://github.com/andrewconnell))
+* [Chris O’Brien](https://www.sharepointnutsandbolts.com/)
+* [Christian Stahl](https://chrisstahl.wordpress.com)
+* [David Drever](https://prairiedeveloper.com/)
 * [David Lozzi](https://davidlozzi.com)
-* [Elio Struyf](http://www.eliostruyf.com) ([github](https://github.com/estruyf))
-* [John Liu](http://johnliu.net) - [YouTube](https://www.youtube.com/c/JohnLiu/playlists) ([github](https://github.com/johnnliu))
+* [Elio Struyf](https://www.eliostruyf.com) ([github](https://github.com/estruyf))
+* [John Liu](https://johnliu.net) - [YouTube](https://www.youtube.com/c/JohnLiu/playlists) ([github](https://github.com/johnnliu))
 * [Julie Turner](https://julieturner.net/)
-* [Marc Anderson](http://sympmarc.com/)
-* [Stefan Bauer](http://www.n8d.at/blog/) ([github](https://github.com/StfBauer?tab=repositories))
+* [Marc Anderson](https://sympmarc.com/)
+* [Stefan Bauer](https://www.n8d.at/blog/) ([github](https://github.com/StfBauer?tab=repositories))
 * [Thomas Daly](https://thomasdaly.net)
 * **MSFT SPFx Lead [Vesa Junoven](https://blogs.msdn.microsoft.com/vesku/)**
-* [Waldek Mastykarz](http://blog.mastykarz.nl) & [Mavention](http://www.mavention.com/blog)
-* [Wictor Wilen](http://www.wictorwilen.se/)
+* [Waldek Mastykarz](https://blog.mastykarz.nl) & [Mavention](https://www.mavention.com/blog)
+* [Wictor Wilen](https://www.wictorwilen.se/)
 * [Yaroslav Pentsarskyy](https://www.origamiconnect.com/articles)
 
 ## Ideas
 
-* [A List Apart](http://alistapart.com/topics)
+* [A List Apart](https://alistapart.com/topics)
 * [dribbble](https://dribbble.com/)
-* [StepTwo Intranet Awards / Books](http://www.steptwo.com.au/)
-* [Top SharePoint](http://www.topsharepoint.com/)
-* [builtwith.com](http://builtwith.com/)
+* [StepTwo Intranet Awards / Books](https://www.steptwo.com.au/)
+* [Top SharePoint](https://www.topsharepoint.com/)
+* [builtwith.com](https://builtwith.com/)
 * [Smashing Magazine](https://www.smashingmagazine.com/)

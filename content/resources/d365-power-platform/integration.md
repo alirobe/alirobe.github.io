@@ -16,15 +16,15 @@ subtitle: APIs, connectors, and integration patterns
 
 ## Development tools
 
-* [Dataverse Web API docs](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/webapi/) - Dev/API docs for interacting with Dataverse data and metadata
-* [LogicApp / PowerAutomate Connector Catalog](https://learn.microsoft.com/en-us/connectors/connector-reference/)
-* [Power Platform CLI](https://learn.microsoft.com/en-us/power-platform/developer/cli/introduction)
-* [pac modelbuilder](https://learn.microsoft.com/en-us/power-platform/developer/cli/reference/modelbuilder) (.NET)
-* [Enabling TDS endpoint for Dataverse](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/tables/tds-endpoint)
+* [Dataverse Web API docs](https://learn.microsoft.com/power-apps/developer/data-platform/webapi/) - Dev/API docs for interacting with Dataverse data and metadata
+* [LogicApp / PowerAutomate Connector Catalog](https://learn.microsoft.com/connectors/connector-reference/)
+* [Power Platform CLI](https://learn.microsoft.com/power-platform/developer/cli/introduction)
+* [pac modelbuilder](https://learn.microsoft.com/power-platform/developer/cli/reference/modelbuilder) (.NET)
+* [Enabling TDS endpoint for Dataverse](https://learn.microsoft.com/power-apps/developer/data-platform/dataverse-sql-query    )
 
 ## Developer tool lists
 
 * [Awesome Lists](https://github.com/sindresorhus/awesome)
-* [Awesome CSV](https://github.com/awesome/awesome-csv)
+* [Awesome CSV](https://github.com/secretGeek/AwesomeCSV)
 * [Awesome JSON](https://github.com/burningtree/awesome-json)
 * [Awesome Power Platform](https://github.com/Power-Maverick/awesome-power-platform)

@@ -6,10 +6,10 @@ You can reach me through any of these channels:
 
 * [Email](mailto:ali@ali.id.au)
 * [Teams](im:ali@ali.id.au)
-* [LinkedIn](https://www.linkedin.com/in/alirobe/)
+* [LinkedIn](https://au.linkedin.com/in/alirobe)
 * [GitHub](https://github.com/alirobe)
 * [Bluesky](https://bsky.app/profile/ali.id.au)
-* [Twitter / X](https://twitter.com/alirobe)
+* [Twitter / X](https://x.com/alirobe)
 
 ## Time zone
 

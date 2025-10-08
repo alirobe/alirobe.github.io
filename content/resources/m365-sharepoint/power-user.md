@@ -9,14 +9,14 @@ subtitle: Practical resources for understanding and using SharePoint more effect
 
 ## Understand what SharePoint can do
 
-* [sharepoint.com](http://sharepoint.com)
+* [sharepoint.com](https://sharepoint.com)
 * [What is SharePoint? (official)](https://support.microsoft.com/office/what-is-sharepoint-97b915e6-651b-43b2-827d-fb25777f446f)
-* [SharePoint - Wiki page](http://en.wikipedia.org/wiki/SharePoint)
+* [SharePoint - Wiki page](https://en.wikipedia.org/wiki/SharePoint)
 
 ## Explore successful approaches
 
 * [Microsoft 365 Customer Stories](https://www.microsoft.com/en/customers/search?sq=&ff=&p=0&so=story_publish_date+desc&filters=product%3Aother%2Fsharepoint)
-* [SharePoint Lookbook](https://adoption.microsoft.com/en-us/sharepoint-look-book/)
+* [SharePoint Lookbook](https://adoption.microsoft.com/sharepoint-look-book/)
 * [Lookbook 365](https://lookbook365.com/)
 * [Step Two Intranet Awards](https://www.steptwo.com.au/awards/)
 * Nielson Norman Group articles on intranets and collaboration: [Intranets](https://www.nngroup.com/topic/intranets/), [Collaboration](https://www.nngroup.com/topic/collaboration/)

@@ -9,7 +9,7 @@ subtitle: Canvas and model-driven app resources
 
 ## Official learning
 
-* [Power Apps](https://learn.microsoft.com/en-us/training/powerapps/)
+* [Power Apps](https://learn.microsoft.com/training/powerplatform/power-apps)
 * [Power Apps documentation](https://learn.microsoft.com/power-apps/)
 
 ## Community learning
@@ -20,5 +20,5 @@ subtitle: Canvas and model-driven app resources
 
 ## Tools
 
-* [Power Platform CLI](https://learn.microsoft.com/en-us/power-platform/developer/cli/introduction-power-platform-cli)
+* [Power Platform CLI](https://learn.microsoft.com/power-platform/developer/cli/introduction)
 * [Creator Kit](https://learn.microsoft.com/power-platform/guidance/creator-kit/overview)
