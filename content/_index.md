@@ -1,5 +1,4 @@
 ---
-title: "Ali Robertson"
 ---
 
 <p class="subtitle">G'day! 👦🏽</p>
