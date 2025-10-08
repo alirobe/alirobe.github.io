@@ -2,6 +2,7 @@
 type: resources
 restype: sharepoint
 title: MS365 + SharePoint resources
+subtitle: Guides for admins, developers, and power users
 link: Home
 order: 0
 ---

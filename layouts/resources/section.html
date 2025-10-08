@@ -1,3 +1,14 @@
 {{ define "main" }}
 {{ .Content }}
+
+{{- if eq .RelPermalink "/resources/" -}}
+{{- $sections := where .Site.Pages "Section" "resources" -}}
+{{- $sections = where $sections "File.LogicalName" "_index.md" -}}
+{{- $sections = where $sections ".RelPermalink" "!=" "/resources/" -}}
+<ul>
+{{- range sort $sections "Params.order" }}
+<li><a href="{{ .RelPermalink }}">{{ .Title }}</a> - {{ .Params.subtitle | default .Description }}</li>
+{{- end }}
+</ul>
+{{- end -}}
 {{ end }}

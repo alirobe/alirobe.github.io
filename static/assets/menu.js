@@ -1,6 +1,7 @@
 // Mobile menu toggle
 const menuToggle = document.querySelector('.mobile-menu-toggle');
 const sidebar = document.querySelector('.sidebar');
+const mobileHomeTitle = document.querySelector('.mobile-home-title');
 
 if (menuToggle && sidebar) {
     // Restore menu state from localStorage on page load
@@ -15,8 +16,8 @@ if (menuToggle && sidebar) {
         });
     }
 
-    menuToggle.addEventListener('click', function() {
-        this.classList.toggle('active');
+    function toggleMenu() {
+        menuToggle.classList.toggle('active');
         sidebar.classList.toggle('active');
 
         // Save state to localStorage
@@ -25,7 +26,19 @@ if (menuToggle && sidebar) {
         } else {
             localStorage.removeItem('mobileMenuOpen');
         }
-    });
+    }
+
+    menuToggle.addEventListener('click', toggleMenu);
+
+    // Mobile home title click opens menu
+    if (mobileHomeTitle) {
+        mobileHomeTitle.addEventListener('click', function() {
+            if (window.innerWidth <= 768) {
+                toggleMenu();
+            }
+        });
+        mobileHomeTitle.style.cursor = 'pointer';
+    }
 
     // Close menu when clicking overlay
     sidebar.addEventListener('click', function(e) {

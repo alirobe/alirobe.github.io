@@ -15,6 +15,7 @@ Vetted links for administrators and IT pros who have to deal with SharePoint on-
 
 Get up to speed with these resources.
 
+* ["What is SharePoint?" (YouTube)](https://www.youtube.com/watch?v=TE9TpraPlrE) - [from this excellent LinkedIn Learning course](https://www.linkedin.com/learning/sharepoint-2010-essential-training/welcome)
 * [Server architecture overview](https://en.wikipedia.org/wiki/SharePoint#Server_architecture)
 * [SharePoint Server documentation](https://learn.microsoft.com/sharepoint/sharepoint-server/)
 * [List of Office 365 Security Resources](https://practical365.com/office-365-security-resources/)

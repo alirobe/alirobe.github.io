@@ -3,7 +3,8 @@ type: resources
 restype: windows
 link: Windows Resources
 title: Windows resources
-order: 0
+subtitle: Quick tricks, keyboard shortcuts, and setup tips
+order: 2
 ---
 
 Not exhaustive, but a few useful links for Windows users.

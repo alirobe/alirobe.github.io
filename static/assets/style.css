@@ -83,7 +83,7 @@ body {
 body::before {
     content: '';
     position: fixed;
-    left: 0;
+    left: max(0px, calc((100vw - 1880px) / 2));
     top: 0;
     width: 280px;
     height: 100vh;
@@ -189,6 +189,9 @@ mark {
 .layout-container {
     display: flex;
     min-height: 100vh;
+    max-width: 1880px;
+    margin: 0 auto;
+    position: relative;
 }
 
 .sidebar {
@@ -197,7 +200,7 @@ mark {
     border-right: 1px solid var(--border);
     padding: 2rem 1.5rem;
     position: fixed;
-    left: 0;
+    left: max(0px, calc((100vw - 1880px) / 2));
     top: 0;
     height: 100vh;
     overflow-y: auto;
@@ -205,7 +208,7 @@ mark {
 }
 
 .sidebar-header h1 {
-    margin: 0 0 0.5rem 0;
+    margin: 0 0 1rem 0;
     font-size: 1.5rem;
     font-weight: 600;
 }
@@ -224,6 +227,17 @@ mark {
     color: var(--text-light);
     margin-bottom: 2rem;
     line-height: 1.5;
+}
+
+@media (max-width: 768px) {
+    .sidebar-header .bio {
+        display: none;
+    }
+
+    .profile-image img {
+        width: 80px;
+        height: 80px;
+    }
 }
 
 .sidebar-nav ul {
@@ -349,6 +363,12 @@ mark {
     display: flex;
     flex-direction: column;
     min-width: 0;
+    align-items: center;
+}
+
+.main-container > * {
+    width: 100%;
+    max-width: 1600px;
 }
 
 header.breadcrumbs {
@@ -445,7 +465,7 @@ tr:hover {
 .mobile-menu-toggle {
     display: none;
     position: fixed;
-    top: 1rem;
+    top: 0.5625rem;
     right: 1rem;
     z-index: 1001;
     background: transparent;
@@ -491,15 +511,41 @@ tr:hover {
     display: none;
 }
 
+@media (max-width: 768px) {
+    .mobile-home-title {
+        display: block;
+        position: sticky;
+        top: 0;
+        background: var(--bg);
+        border-bottom: 1px solid var(--border);
+        padding: 0.875rem 1rem;
+        padding-right: 4rem;
+        margin: -1.5rem -1rem 3rem -1rem;
+        z-index: 100;
+        font-size: 1.25rem;
+        line-height: 1.5;
+        min-height: 60px;
+        display: flex;
+        align-items: center;
+    }
+
+    header.breadcrumbs {
+        position: sticky;
+        top: 0;
+        z-index: 100;
+        margin: -1.5rem -1rem 0 -1rem;
+        padding: 0.875rem 1rem;
+        padding-right: 4rem;
+        min-height: 60px;
+        display: flex;
+        align-items: center;
+    }
+}
+
 /* Mobile responsive */
 @media (max-width: 768px) {
     body {
         font-size: 1rem;
-    }
-
-    .mobile-home-title {
-        display: block;
-        margin-top: 0;
     }
 
     h1 { font-size: 2rem; }
@@ -549,10 +595,9 @@ tr:hover {
     }
 
     main {
-        padding: 1.5rem 1rem;
+        padding: 0 1rem 1.5rem 1rem;
     }
 
-    header.breadcrumbs,
     header.subnav,
     footer {
         padding-left: 1rem;

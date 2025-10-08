@@ -13,10 +13,9 @@ Practical resources for understanding and using SharePoint more effectively.
 
 ## Understand what SharePoint can do
 
-* ["What is SharePoint?" (lynda)](https://www.youtube.com/watch?v=TE9TpraPlrE)
-* [SharePoint - Wiki page](http://en.wikipedia.org/wiki/SharePoint)
 * [sharepoint.com](http://sharepoint.com)
 * [What is SharePoint? (official)](https://support.microsoft.com/office/what-is-sharepoint-97b915e6-651b-43b2-827d-fb25777f446f)
+* [SharePoint - Wiki page](http://en.wikipedia.org/wiki/SharePoint)
 
 ## Explore successful approaches
 

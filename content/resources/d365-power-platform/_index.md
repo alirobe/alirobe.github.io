@@ -3,8 +3,8 @@ type: resources
 restype: power
 link: Power Platform overview
 order: 1
-title: Power Platform resources
-subtitle: Resources for Power Platform
+title: D365 + Power Platform resources
+subtitle: Learning paths, tools, and governance guidance
 ---
 
 ## Power Platform resources
