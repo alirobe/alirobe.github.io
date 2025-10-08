@@ -1,9 +1,9 @@
 ---
 layout: resource
 restype: sharepoint
-order: 4
+order: 2
 link: Admins + IT 
-title: IT + Admins
+title: Admins + IT pros
 subtitle: Technical resources, roadmaps, migrations, and essential tools
 ---
 

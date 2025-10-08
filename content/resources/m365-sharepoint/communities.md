@@ -2,12 +2,12 @@
 layout: resource
 restype: sharepoint
 order: 3
-link: SP Community
+link: Community
 title: Communities
 subtitle: News, conferences, and groups to keep you current
 ---
 
-## SharePoint communities
+## Communities
 
 News, conferences, and groups to keep you current.
   

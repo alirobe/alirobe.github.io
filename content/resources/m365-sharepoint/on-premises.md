@@ -2,8 +2,8 @@
 layout: resource
 restype: sharepoint
 order: 99
-link: On-Prem
-title: On-Premises
+link: SP On-Prem
+title: On-Premises SharePoint
 subtitle: SharePoint Server resources
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: resource
 restype: sharepoint
-order: 2
+order: 1
 link: Adoption
 title: Governance & adoption
 subtitle: Plan information architecture, rollouts & change comms
@@ -9,7 +9,7 @@ subtitle: Plan information architecture, rollouts & change comms
 
 ## Governance, IA + adoption
 
-Curated guidance for successful rollouts: Information Architecture, practical governance approaches, change communications, and user adoption strategies.
+Some guidance for successful rollouts: Practical governance approaches, good information architecture, communications, and user adoption tracking.
 
 ### Learn + plan
 
@@ -50,7 +50,9 @@ Keep updated with these sources.
 
 * [MS 365 Developer Program - a Free MS 365 Test Environment](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 * [Microsoft solution provider directory](https://www.microsoft.com/solution-providers/)
-* [ShareGate](https://www.sharegate.com)
+* [ShareGate](https://www.sharegate.com) - for teams / M365 governance
+* [Microsoft Clarity](https://clarity.microsoft.com) - for user studies
+* [Sprocket 365](https://sprocket365.com) Policy Hub - for intranet training compliance and engagement tracking (N.B. I helped make this)
 
 ### Industry blogs and communities
 

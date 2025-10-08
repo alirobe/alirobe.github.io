@@ -15,16 +15,16 @@
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --bg: #212121;
-        --accent-bg: #2b2b2b;
-        --text: #dcdcdc;
-        --text-light: #ababab;
+        --bg: #222;
+        --accent-bg: #333;
+        --text: #ddd;
+        --text-light: #aaa;
         --border: #666;
-        --accent: #ff8c42;
-        --accent-light: #ff7722;
-        --code: #f06292;
+        --accent: #f84;
+        --accent-light: #f72;
+        --code: #f69;
         --preformatted: #ccc;
-        --marked: #ffdd33;
+        --marked: #fd3;
         --disabled: #111;
     }
 
@@ -48,32 +48,14 @@ html {
 
 ::view-transition-old(root),
 ::view-transition-new(root) {
-    animation-duration: 0.3s;
+    animation-duration: 0.05s;
 }
 
-::view-transition-old(root) {
-    animation-name: fade-out;
-}
-
-::view-transition-new(root) {
-    animation-name: fade-in;
-}
-
-@keyframes fade-out {
-    to {
-        opacity: 0;
-    }
-}
-
-@keyframes fade-in {
-    from {
-        opacity: 0;
-    }
-}
 
 body {
     color: var(--text);
-    background: var(--bg);
+    background-color: var(--bg);
+    background: linear-gradient(to top left, var(--bg), var(--accent-bg)), url('https://grainy-gradients.vercel.app/noise.svg');
     font-size: 1.15rem;
     line-height: 1.5;
     margin: 0;

@@ -1,9 +1,9 @@
 ---
 layout: resource
 restype: sharepoint
-order: 5
-link: Devs
-title: Development
+order: 4
+link: SPFx Devs
+title: SPFx Development
 subtitle: SPFx, PnP, APIs, and dev tools
 ---
 
