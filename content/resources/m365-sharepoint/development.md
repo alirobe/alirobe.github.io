@@ -45,15 +45,12 @@ subtitle: Build better custom apps with SPFx, PnP, APIs, and dev tools
 * [Fluent UI React](https://developer.microsoft.com/en-us/fluentui#/controls/web) (by Microsoft)
 * [PnP Reusable Controls](https://pnp.github.io/sp-dev-fx-controls-react/)
 
-## Packaged solutions / templates
+## Templates & samples, packaged low cost solutions
 
 * [PnP Starter Kit](https://github.com/pnp/sp-starter-kit) (Microsoft 365)
 * [PnP SPFx Webparts](https://github.com/pnp/sp-dev-fx-webparts)
 * [PnP Starter Intranet](https://github.com/SharePoint/PnP/tree/master/Solutions/Business.StarterIntranet) (2016+)
-* [Sprocket](https://sprocket365.com) -- note, I helped make this
-* [Involv](https://www.involv-intranet.com/)
-* [Omnia](https://www.omniaintranet.com/)
-* [Bonzai](https://bonzai-intranet.com/)
+* [Sprocket 365](https://sprocket365.com) ([docs](https://sprocket365.com/docs/category/sprocket-web-parts) -- note, I helped make this, it's a very low cost collection of high quality, maintained/supported SPFx webparts.
 * [Vendor comparison (neutral/free) - Clearbox](https://www.clearbox.co.uk/2025-intranet-report-clearbox/)
 * [Vendor selection guidance (neutral) - StepTwo](https://www.steptwo.com.au/papers/out-of-the-box-intranet-solution/)
 
