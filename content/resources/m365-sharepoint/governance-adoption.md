@@ -38,6 +38,7 @@ Keep updated with these sources.
 * [Sharegate blog](https://sharegate.com/blog)
 * [Rencore blog (Many influencers! Waldek Mastykarz, Tobias Zimmergren, and more)](https://rencore.com/blog/)
 * [Step Two blog (James Robertson)](https://www.steptwo.com.au/columntwo/) ([slideshare](https://www.slideshare.net/jamesr)) + Intranet Awards
+* [Hands On Tek](https://handsontek.net/) by João Ferreira
 * [NN Group Intranet Awards](https://www.nngroup.com/articles/intranet-design/)
 * [Marc Anderson - Sympmarc](https://sympmarc.com)
 
