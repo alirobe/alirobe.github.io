@@ -15,6 +15,11 @@ subtitle: Dataverse and Dynamics 365 CRM resources
 
 * [PowerObjects CRM Book (Archived 2020)](https://web.archive.org/web/20200928152758/https://crmbook.powerobjects.com/)
 
+## Keep up to date
+
+* [Microsoft Dynamics 365 Blog](https://www.microsoft.com/dynamics-365/blog/)
+* [MSDynamicsWorld](https://msdynamicsworld.com/)
+
 ## Tools
 
 * [Awesome Dynamics CRM / Dataverse tool list](https://github.com/Elcaten/awesome-dynamics-crm)

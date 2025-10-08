@@ -15,6 +15,7 @@ subtitle: Learning paths, communities, and governance
 ## Community learning resources
 
 * [Microsoft Power Platform YouTube](https://www.youtube.com/@MicrosoftPowerPlatform)
+* [MSDynamicsWorld](https://msdynamicsworld.com/)
 * [Power Platform Blog](https://powerplatform.microsoft.com/blog/)
 * [April Dunnam (Blog)](https://www.sharepointsiren.com/) - [YouTube](https://www.youtube.com/@AprilDunnam/playlists), [Buy a Coffee](https://buymeacoffee.com/aprildunnam)
 * [Reza Dorrani (Blog)](https://rezadorrani.com/) - [YouTube](https://www.youtube.com/@RezaDorrani/playlists), [YT Memberships](https://www.youtube.com/rezadorrani/join)
