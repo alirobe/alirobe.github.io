@@ -1,15 +1,11 @@
 ---
 type: resources
 restype: power
-order: 3
+order: 4
 link: Power BI
-title: Power BI Resources
-subtitle: Power BI and DAX resources
+title: Power BI resources
+subtitle: Reporting and DAX resources
 ---
-
-## Power BI and DAX
-
-Handy non-SharePoint links that often help SharePoint pros.
 
 ## Official learning
 

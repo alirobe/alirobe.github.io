@@ -1,17 +1,13 @@
 ---
-layout: resource
+type: resources
 restype: sharepoint
 order: 1
 link: Adoption
 title: Governance & adoption
-subtitle: Plan information architecture, rollouts & change comms
+subtitle: Practical governance approaches, information architecture, comms, and user adoption tools
 ---
 
-## Governance, IA + adoption
-
-Some guidance for successful rollouts: Practical governance approaches, good information architecture, communications, and user adoption tracking.
-
-### Learn + plan
+## Learn + plan
 
 Get up to speed with these resources.
 
@@ -24,7 +20,7 @@ Get up to speed with these resources.
 * [Series: Why SharePoint Projects Fail](https://www.cleverworkarounds.com/2008/04/11/why-do-sharepoint-projects-fail-part-1/)
 * Generic: [Web Style Guide](https://webstyleguide.com/)
 
-### Some key stumbling blocks / quick wins
+## Some key stumbling blocks / quick wins
 
 * [Governance overview](https://learn.microsoft.com/en-us/sharepoint/governance-overview)
 * [Brand center](https://learn.microsoft.com/en-us/sharepoint/brand-center-overview)
@@ -32,7 +28,7 @@ Get up to speed with these resources.
 * [Manage group creation](https://learn.microsoft.com/en-us/microsoft-365/admin/create-groups/manage-creation-of-groups)
 * [Plan for service limits](https://learn.microsoft.com/en-us/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) + [list limits](https://support.microsoft.com/en-us/office/overview-of-large-lists-and-libraries-e2ea4d5d-ec23-4171-95c4-c7f5b5dbfd8a)
 
-### Influencers
+## Influencers
 
 Keep updated with these sources.
 
@@ -46,7 +42,7 @@ Keep updated with these sources.
 * [OrigamiConnect blog (Yaroslav Pentarskyy)](https://www.origamiconnect.com/articles)
 * [Marc Anderson - Sympmarc](http://sympmarc.com)
 
-### Tools
+## Tools
 
 * [MS 365 Developer Program - a Free MS 365 Test Environment](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 * [Microsoft solution provider directory](https://www.microsoft.com/solution-providers/)
@@ -54,7 +50,7 @@ Keep updated with these sources.
 * [Microsoft Clarity](https://clarity.microsoft.com) - for user studies
 * [Sprocket 365](https://sprocket365.com) Policy Hub - for intranet training compliance and engagement tracking (N.B. I helped make this)
 
-### Industry blogs and communities
+## Industry blogs and communities
 
 * [TechTarget KM](https://www.techtarget.com/searchcontentmanagement/resources/Knowledge-management)
 * see: [Communities](../communities/)

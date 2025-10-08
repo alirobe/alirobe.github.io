@@ -1,16 +1,13 @@
 ---
-layout: resource
+type: resources
 restype: sharepoint
 order: 4
 link: SPFx Devs
-title: SPFx Development
-subtitle: SPFx, PnP, APIs, and dev tools
+title: SPFx development
+subtitle: Build better custom apps with SPFx, PnP, APIs, and dev tools
 ---
 
-## Build better SharePoint solutions
-
-
-### Training
+## Training
 
 * [SharePoint development docs](https://learn.microsoft.com/sharepoint/dev/)
 * [Patterns and Practices Resources](https://pnp.github.io/)
@@ -18,14 +15,14 @@ subtitle: SPFx, PnP, APIs, and dev tools
 * [Microsoft Learn for Developers](https://learn.microsoft.com/training/roles/developer/) - structured learning paths.
 * [Microsoft Adoption Centre - Developer](https://adoption.microsoft.com/en-us/roles/developer/)
 
-### Extra resources
+## Extra resources
 
 * [MS 365 Developer Program - a Free MS 365 Test Environment](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 * [React Fluent UI](https://developer.microsoft.com/en-us/fluentui)
 * [SP Editor](https://www.reddit.com/r/sharepoint/comments/677cq0/sp_editor_this_chrome_extension_adds_a_sharepoint/)
 * [CAML Designer](http://www.camldesigner.com/)
 
-### Code
+## Code
 
 * [MS365 OfficeDev GitHub](https://github.com/OfficeDev) & [SharePoint GitHub](https://github.com/SharePoint)
 * [MS 365 PnP GitHub org](https://github.com/pnp)
@@ -33,7 +30,7 @@ subtitle: SPFx, PnP, APIs, and dev tools
   * List: [Awesome SharePoint](https://github.com/BSUG/awesome-sharepoint)
   * List: [Awesome .NET](https://github.com/quozd/awesome-dotnet)
 
-### Testing & dev tools
+## Testing & dev tools
 
 * [Rencore SharePoint Customizations Guide](https://rencore.com/sharepoint-customizations-guide/) & [SPCAF](https://rencore.com)
 * [SP Editor](https://chrome.google.com/webstore/detail/sp-editor/ecblfcmjnbbgaojblcpmjoamegpbodhd?hl=en)
@@ -44,18 +41,14 @@ subtitle: SPFx, PnP, APIs, and dev tools
 * **[PnP Starter Kit](https://github.com/pnp/sp-starter-kit) (Microsoft 365)**
 * **[PnP SPFx Webparts](https://github.com/pnp/sp-dev-fx-webparts)**
 * **[PnP Starter Intranet](https://github.com/SharePoint/PnP/tree/master/Solutions/Business.StarterIntranet) (2016+)**
-* [Apptex for SharePoint](http://spapptex.com/) (free)
-* [Bind Tuning](http://bindtuning.com) (free/paid)
+* [Sprocket](https://sprocket365.com) -- note, I helped make this
+* [Involv](https://www.involv-intranet.com/)
+* [Omnia](https://www.omniaintranet.com/)
 * [Bonzai](http://bonzai-intranet.com/)
-* [ElevatePoint](http://elevatepoint.com/)
-* [Unily](https://www.unily.com/)
-* [Sproket](https://sproket.co)
-* [Valo](https://www.valointranet.com)
-* [Wizdom](http://www.wizdom-intranet.com/)
-* [Vendor comparison (neutral) - Clearbox](https://www.clearbox.co.uk/portfolio-item/sharepoint-intranets-in-a-box-report-2018/)
+* [Vendor comparison (neutral/free) - Clearbox](https://www.clearbox.co.uk/2025-intranet-report-clearbox/)
 * [Vendor selection guidance (neutral) - StepTwo](http://www.steptwo.com.au/papers/out-of-the-box-intranet-solution/)
 
-### Bloggers
+## Bloggers
 
 * [Andrew Connell](http://www.andrewconnell.com/) ([github](https://github.com/andrewconnell))
 * [Chris O’Brien](http://www.sharepointnutsandbolts.com/)
@@ -73,7 +66,7 @@ subtitle: SPFx, PnP, APIs, and dev tools
 * [Wictor Wilen](http://www.wictorwilen.se/)
 * [Yaroslav Pentsarskyy](https://www.origamiconnect.com/articles)
 
-### Ideas
+## Ideas
 
 * [A List Apart](http://alistapart.com/topics)
 * [dribbble](https://dribbble.com/)

@@ -2,7 +2,7 @@
 title: "Ali Robertson"
 ---
 
-G'day!
+<p class="subtitle">G'day! 👦🏽</p>
 
 I'm an Aussie technical architect and developer. I've been working with Microsoft technologies for over 20 years. I help organisations find a clear path to make their Microsoft tech work for them. This means I spend a lot of time working with Microsoft 365, Power Platform, SharePoint, Dataverse, and  Dynamics 365 CRM.
 

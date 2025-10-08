@@ -3,16 +3,15 @@ type: resources
 restype: windows
 link: Windows Resources
 title: Windows resources
-subtitle: Quick tricks, keyboard shortcuts, and setup tips
+subtitle: Shortcuts, setup tips and productivity hacks
 order: 2
 ---
 
-Not exhaustive, but a few useful links for Windows users.
+<dl>
+{{< resource-list restype="windows" >}}
+</dl>
 
-## Pages
-
-* [Quick install](./quick-install) - Quickly install common tools on Windows - winget/ninite.
-* [Keyboard shortcuts](./kb-shortcuts) - Some keyboard shortcuts you might not know about.
+---
 
 ## Other bits
 
@@ -21,5 +20,5 @@ Not exhaustive, but a few useful links for Windows users.
 
 ## Productivity videos
 
-* [Using Windows Terminal like a pro](https://www.youtube.com/watch?v=FC-gLkYWXLw)
-* [You suck at Excel (YouTube)](https://www.youtube.com/watch?v=JxBg4sMusIg) - an old but gold whirlwind tour of Excel's features
+* [Using Windows Terminal Like A Pro](https://www.youtube.com/watch?v=FC-gLkYWXLw).
+* [You Suck At Excel (YouTube)](https://www.youtube.com/watch?v=JxBg4sMusIg) - an old but gold whirlwind tour of Excel's features.

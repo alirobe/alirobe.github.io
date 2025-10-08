@@ -1,5 +1,5 @@
 ---
-layout: resource
+type: resources
 restype: sharepoint
 order: 3
 link: Community
@@ -7,11 +7,7 @@ title: Communities
 subtitle: News, conferences, and groups to keep you current
 ---
 
-## Communities
-
-News, conferences, and groups to keep you current.
-  
-### Join communities
+## Join communities
 
 Visit these online groups.
 
@@ -21,7 +17,7 @@ Visit these online groups.
 * [SharePoint subreddit](https://old.reddit.com/r/sharepoint/) + [Discord](https://discord.gg/7FqFA9rQzR)
 * [Microsoft 365 subreddit](https://old.reddit.com/r/Microsoft365/)
 
-### Conferences
+## Conferences
 
 Get-togethers are a great way to learn, network, and get inspired.
 
@@ -32,7 +28,7 @@ Get-togethers are a great way to learn, network, and get inspired.
 * For conference recordings: [Microsoft Learn Events](https://learn.microsoft.com/events/)
 * [Community Days](https://www.communitydays.org/)
 
-### News and updates
+## News and updates
 
 Keep up to date with these feeds.
 

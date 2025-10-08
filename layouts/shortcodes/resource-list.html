@@ -4,8 +4,8 @@
 {{- $pages = where $pages "Params.link" "!=" nil -}}
 {{- $pages = where $pages "RelPermalink" "!=" $currentPage.RelPermalink -}}
 {{- range sort $pages "Params.order" -}}
-<li>
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    <span>- {{ .Params.subtitle }}</span>
-</li>
+<dt><a href="{{ .RelPermalink }}">{{ .Title }}</a></dt>
+{{- if .Params.subtitle -}}
+<dd>{{ .Params.subtitle }}</dd>
+{{- end -}}
 {{- end -}}

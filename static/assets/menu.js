@@ -1,26 +1,19 @@
-// Mobile menu toggle
 const menuToggle = document.querySelector('.mobile-menu-toggle');
 const sidebar = document.querySelector('.sidebar');
 const mobileHomeTitle = document.querySelector('.mobile-home-title');
 
 if (menuToggle && sidebar) {
-    // Restore menu state from localStorage on page load
     if (window.innerWidth <= 768 && localStorage.getItem('mobileMenuOpen') === 'true') {
-        // Disable transitions temporarily
         sidebar.style.transition = 'none';
         menuToggle.classList.add('active');
         sidebar.classList.add('active');
-        // Re-enable transitions after a frame
-        requestAnimationFrame(() => {
-            sidebar.style.transition = '';
-        });
+        requestAnimationFrame(() => { sidebar.style.transition = ''; });
     }
 
     function toggleMenu() {
         menuToggle.classList.toggle('active');
         sidebar.classList.toggle('active');
 
-        // Save state to localStorage
         if (sidebar.classList.contains('active')) {
             localStorage.setItem('mobileMenuOpen', 'true');
         } else {
@@ -30,7 +23,6 @@ if (menuToggle && sidebar) {
 
     menuToggle.addEventListener('click', toggleMenu);
 
-    // Mobile home title click opens menu
     if (mobileHomeTitle) {
         mobileHomeTitle.addEventListener('click', function() {
             if (window.innerWidth <= 768) {
@@ -40,7 +32,6 @@ if (menuToggle && sidebar) {
         mobileHomeTitle.style.cursor = 'pointer';
     }
 
-    // Close menu when clicking overlay
     sidebar.addEventListener('click', function(e) {
         if (e.target === this && this.classList.contains('active')) {
             menuToggle.classList.remove('active');
@@ -49,13 +40,9 @@ if (menuToggle && sidebar) {
         }
     });
 
-    // Keep menu open when clicking a link (state persists via localStorage)
     const sidebarLinks = sidebar.querySelectorAll('a');
     sidebarLinks.forEach(link => {
-        link.addEventListener('click', function() {
-            // Menu will stay open on next page due to localStorage
-            // No need to close it here
-        });
+        link.addEventListener('click', ()=>{ /* noop */ });
     });
 
     // Clear state when resizing to desktop

@@ -3,8 +3,8 @@ type: resources
 restype: power
 order: 2
 link: Power Automate
-title: Power Automate Resources
-subtitle: Power Automate / Microsoft Flow Resources
+title: Power Automate resources
+subtitle: Power Automate / Microsoft Flow resources
 ---
 
 ## Official learning

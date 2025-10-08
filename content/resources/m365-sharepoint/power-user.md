@@ -2,14 +2,10 @@
 type: resources
 restype: sharepoint
 order: 4
-link: SP Power users
-title: SharePoint Power users
-subtitle: Practical guidance for making SharePoint work better
+link: SP power users
+title: SharePoint power users
+subtitle: Practical resources for understanding and using SharePoint more effectively
 ---
-
-## SharePoint for power users
-
-Practical resources for understanding and using SharePoint more effectively.
 
 ## Understand what SharePoint can do
 

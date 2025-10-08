@@ -1,3 +1,8 @@
 {{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{- if .Params.subtitle -}}
+<p class="subtitle">{{ .Params.subtitle }}</p>
+<hr />
+{{- end -}}
 {{ .Content }}
 {{ end }}
