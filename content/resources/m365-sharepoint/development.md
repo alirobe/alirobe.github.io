@@ -35,7 +35,17 @@ subtitle: Build better custom apps with SPFx, PnP, APIs, and dev tools
 * [SP Editor](https://chrome.google.com/webstore/detail/sp-editor/ecblfcmjnbbgaojblcpmjoamegpbodhd?hl=en)
 * More at this [reddit thread](https://www.reddit.com/r/sharepoint/comments/3xur5o/useful_sharepoint_dev_tools/)
 
-## Frameworks and packaged solutions
+## Useful components
+
+* [RJSF (React JSON Schema Form)](https://rjsf-team.github.io/react-jsonschema-form/)
+* [Tanstack Table](https://tanstack.com/table/)
+* [Kendo React UI](https://www.telerik.com/kendo-react-ui)
+* [d3js](https://d3js.org/)
+* [Chart.js](https://www.chartjs.org/)
+* [Fluent UI React](https://developer.microsoft.com/en-us/fluentui#/controls/web) (by Microsoft)
+* [PnP Reusable Controls](https://pnp.github.io/sp-dev-fx-controls-react/)
+
+## Packaged solutions / templates
 
 * [PnP Starter Kit](https://github.com/pnp/sp-starter-kit) (Microsoft 365)
 * [PnP SPFx Webparts](https://github.com/pnp/sp-dev-fx-webparts)
@@ -65,11 +75,14 @@ subtitle: Build better custom apps with SPFx, PnP, APIs, and dev tools
 * [Wictor Wilen](https://www.wictorwilen.se/)
 * [Yaroslav Pentsarskyy](https://www.origamiconnect.com/articles)
 
-## Ideas
+## Design ideas
 
 * [A List Apart](https://alistapart.com/topics)
 * [dribbble](https://dribbble.com/)
 * [StepTwo Intranet Awards / Books](https://www.steptwo.com.au/)
-* [Top SharePoint](https://www.topsharepoint.com/)
-* [builtwith.com](https://builtwith.com/)
 * [Smashing Magazine](https://www.smashingmagazine.com/)
+* [css-tricks](https://css-tricks.com/)
+* [UI Patterns](https://ui-patterns.com/)
+* [Behance](https://www.behance.net/)
+* [GoodUI](https://goodui.org/)
+* [Mobbin](https://mobbin.design/)
