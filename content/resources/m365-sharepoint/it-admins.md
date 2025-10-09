@@ -13,39 +13,39 @@ Get up to speed with these resources.
 
 * [SharePoint documentation](https://learn.microsoft.com/sharepoint/)
 * [Microsoft Learn: Certifications](https://learn.microsoft.com/certifications/browse/?resource_type=certification)
-* [Microsoft Adoption Centre - IT Professional](https://adoption.microsoft.com/roles/it-professional/)
+* [Microsoft Adoption Centre - IT professional](https://adoption.microsoft.com/roles/it-professional/)
 * [Youtube: Microsoft Mechanics](https://www.youtube.com/channel/UCJ9905MRHxwLZ2jeNQGIWxA)
-* [Well-Reviewed Books](https://www.amazon.com/s/ref=nb_sb_ss_c_2_25?url=search-alias%3Dstripbooks&field-keywords=sharepoint+administration&sprefix=sharepoint+administration%2Caps%2C910)
+* [Well-reviewed books](https://www.amazon.com/s/ref=nb_sb_ss_c_2_25?url=search-alias%3Dstripbooks&field-keywords=sharepoint+administration&sprefix=sharepoint+administration%2Caps%2C910)
 * [LinkedIn Learning: SharePoint](https://www.linkedin.com/learning/search?keywords=sharepoint)
-* [List of Office 365 Security Resources](https://practical365.com/office-365-security-resources/)
+* [List of Office 365 security resources](https://practical365.com/office-365-security-resources/)
 
 ## Roadmap and updates
 
 Keep up to date
 
 * [Microsoft 365 Roadmap (SharePoint)](https://www.microsoft.com/microsoft-365/roadmap?filters=SharePoint)
-* [SharePoint Tech Community Blog](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/bg-p/SPBlog)
+* [SharePoint Tech Community blog](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/bg-p/SPBlog)
 * [Ignite Conf](https://www.microsoft.com/ignite) (particularly Jeff Teper keynotes)
 * [IntraZone Podcast](https://intrazone.libsyn.com/)
-* [Microsoft 365 Community Calls](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w/videos)
+* [Microsoft 365 community calls](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w/videos)
 
 ## People and blogs worth following
 
 * Corporate President M365 Collab App & Platforms [Jeff Teper](https://x.com/jeffteper)
 * [bluesky.ms](https://bluesky.ms) - collection of influencers
-* [MS 365 Blog](https://www.microsoft.com/microsoft-365/blog/)
-* Patterns and Practices Lead [Vesa Juvonen](https://x.com/vesajuvonen) and his [PnP community calls](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w/videos)
-* [SharePoint Community Blog](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/bg-p/SPBlog)
+* [MS 365 blog](https://www.microsoft.com/microsoft-365/blog/)
+* Patterns and Practices lead [Vesa Juvonen](https://x.com/vesajuvonen) and his [PnP community calls](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w/videos)
+* [SharePoint Community blog](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/bg-p/SPBlog)
 * [ShareGate blog](https://sharegate.com/blog)
 
 ## Handy tools for M365 / SP
 
 * [Patterns and Practices](https://pnp.github.io), [PowerShell](https://pnp.github.io/powershell/), [GitHub](https://github.com/pnp)
-* [MS 365 Developer Program - a Free MS 365 Test Environment](https://developer.microsoft.com/microsoft-365/dev-program)
+* [MS 365 Developer Program - a free MS 365 test environment](https://developer.microsoft.com/microsoft-365/dev-program)
 * [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer)
 * [Syskit SPDocKit](https://www.syskit.com/products/spdockit/)
 * [Rencore Governance](https://rencore.com/)
-* Chrome Extension: [SP Editor](https://chrome.google.com/webstore/detail/sp-editor/ecblfcmjnbbgaojblcpmjoamegpbodhd?hl=en)
+* Chrome extension: [SP Editor](https://chrome.google.com/webstore/detail/sp-editor/ecblfcmjnbbgaojblcpmjoamegpbodhd?hl=en)
 * [Useful SharePoint API URLs](https://docs.google.com/spreadsheets/d/1vKO9jOaTM4poMOPEogfnH35ky2pRuE8V/edit#gid=667984383) (via [this thread](https://old.reddit.com/r/sharepoint/comments/ubi4cm/sharepoint_admin_useful_urls_sharepoint_rest_api/))
 * [SharePoint API Change Tracker](https://s-kainet.github.io/sp-rest-explorer/#/api-diff)
 

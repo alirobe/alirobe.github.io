@@ -1,7 +1,7 @@
 ---
 type: resources
 restype: sharepoint
-order: 99
+order: 9
 link: SP On-Prem
 title: SharePoint on-premises
 subtitle: Vetted links for administrators and IT pros who have to have SharePoint on-premises
@@ -14,7 +14,7 @@ Get up to speed with these resources.
 * ["What is SharePoint?" (YouTube)](https://www.youtube.com/watch?v=TE9TpraPlrE) - [from this excellent LinkedIn Learning course](https://www.linkedin.com/learning/sharepoint-2010-essential-training/)
 * [Server architecture overview](https://en.wikipedia.org/wiki/SharePoint#Server_architecture)
 * [SharePoint Server documentation](https://learn.microsoft.com/sharepoint/sharepoint-server/)
-* [List of Office 365 Security Resources](https://practical365.com/office-365-security-resources/)
+* [List of Office 365 security resources](https://practical365.com/office-365-security-resources/)
 * [LinkedIn Learning: SharePoint](https://www.linkedin.com/learning/search?keywords=sharepoint)
 
 ## Keeping updated
@@ -24,7 +24,7 @@ Make sure you're signed up to a service which will inform you of [CVEs](https://
 It's important to patch as needed, and patching does require manual intervention.
 
 * [Update deployment guidance](https://learn.microsoft.com/sharepoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
-* [Update Release Notes](https://learn.microsoft.com/officeupdates/sharepoint-updates)
+* [Update release notes](https://learn.microsoft.com/officeupdates/sharepoint-updates)
 * [Patching best practices](https://blog.stefan-gossner.com/2020/02/11/sharepoint-patching-best-practices/)
 * Take note of [EOL Dates](https://endoflife.date/sharepoint), and plan upgrades/migrations accordingly.
 

@@ -25,16 +25,16 @@ Get-togethers are a great way to learn, network, and get inspired.
 * [European SharePoint, Office 365 & Azure Conference (ESPC)](https://www.sharepointeurope.com/)
 * Check [Meetup](https://www.meetup.com/find/?keywords=microsoft&source=EVENTS) for 'Microsoft Events'.
 * Official yearly events: [Ignite](https://ignite.microsoft.com/) (+ local Ignite Roadshow events), [Worldwide Partner Conference](https://partner.microsoft.com/)
-* For conference recordings: [Microsoft Learn Events](https://learn.microsoft.com/events/)
-* [Community Days](https://www.communitydays.org/)
+* For conference recordings: [Microsoft Learn events](https://learn.microsoft.com/events/)
+* [Community days](https://www.communitydays.org/)
 
 ## News and updates
 
 Keep up to date with these feeds.
 
-* [Official MS 365 Blog](https://www.microsoft.com/en-au/microsoft-365/blog/) (+ Podcasts / YouTubes)
+* [Official MS 365 blog](https://www.microsoft.com/en-au/microsoft-365/blog/) (+ podcasts / YouTubes)
 * [Official SharePoint Podcast -  Intrazone](https://intrazone.libsyn.com)
-* [Official SP Community Blog](https://techcommunity.microsoft.com/category/content_management/blog/spblog) (+ Podcasts / YouTubes)
+* [Official SP Community blog](https://techcommunity.microsoft.com/category/content_management/blog/spblog) (+ podcasts / YouTubes)
 * [Official 'Microsoft Mechanics' YouTube](https://www.youtube.com/@MSFTMechanics)
 * [Official MS 365 Community Call YouTube](https://www.youtube.com/@MicrosoftCommunityLearning)
 * [Sharegate blog](https://sharegate.com/blog)

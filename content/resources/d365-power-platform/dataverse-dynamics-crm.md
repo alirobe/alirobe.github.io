@@ -27,6 +27,8 @@ subtitle: Dataverse and Dynamics 365 CRM resources
 * [Level Up for Dynamics 365 - Chrome](https://chromewebstore.google.com/detail/level-up-for-dynamics-365/bjnkkhimoaclnddigpphpgkfgeggokam) / [Edge](https://microsoftedge.microsoft.com/addons/detail/level-up-for-dynamics-365/mdjlgdkgmhlmcikdmeehcecolehipicf)
 * [Power Platform CLI](https://learn.microsoft.com/power-platform/developer/cli/introduction)
 * [Dataverse Solution Scanner](https://github.com/alirobe/dataverse-solution-scanner) - backup and scan solutions for governance
+* Data cleansing: [Clay](https://www.clay.com/university/guide/microsoft-dynamics-365-crm-integration-overview), [Data8](https://www.data-8.co.uk/integrations/microsoft-dynamics-crm-integration/), [DQ Global](https://www.dqglobal.com/products/dq-for-dynamics-home/dq-for-dynamics-cleanse/), [Informatica](https://www.informatica.com/), [Talend](https://www.talend.com/)
+
 
 ## Add-ons & extensions
 
@@ -34,3 +36,4 @@ subtitle: Dataverse and Dynamics 365 CRM resources
 * [HCL PowerObjects](https://powercare.powerobjects.com/PowerPack) - productivity and usability add-ons
 * [Xpertdoc](https://www.experlogix.com/integrations/document-automation-microsoft-dynamics-365) - document generation
 * [Inogic](https://www.inogic.com/) - productivity and usability add-ons
+* [pcf.gallery](https://pcf.gallery/) - community-built PowerApps component framework components

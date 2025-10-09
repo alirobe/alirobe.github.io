@@ -1,9 +1,9 @@
 ---
 type: resources
 restype: sharepoint
-order: 4
-link: SPFx Devs
-title: SPFx development
+order: 0
+link: Development
+title: Development & SPFx resources
 subtitle: Build better custom apps with SPFx, PnP, APIs, and dev tools
 ---
 
@@ -17,7 +17,7 @@ subtitle: Build better custom apps with SPFx, PnP, APIs, and dev tools
 
 ## Extra resources
 
-* [MS 365 Developer Program - a Free MS 365 Test Environment](https://developer.microsoft.com/microsoft-365/dev-program)
+* [MS 365 Developer Program - a free MS 365 test environment](https://developer.microsoft.com/microsoft-365/dev-program)
 * [React Fluent UI](https://developer.microsoft.com/fluentui)
 * [SP Editor](https://www.reddit.com/r/sharepoint/comments/677cq0/sp_editor_this_chrome_extension_adds_a_sharepoint/)
 
@@ -76,7 +76,7 @@ subtitle: Build better custom apps with SPFx, PnP, APIs, and dev tools
 
 * [A List Apart](https://alistapart.com/topics)
 * [dribbble](https://dribbble.com/)
-* [StepTwo Intranet Awards / Books](https://www.steptwo.com.au/)
+* [StepTwo Intranet awards / books](https://www.steptwo.com.au/)
 * [Smashing Magazine](https://www.smashingmagazine.com/)
 * [css-tricks](https://css-tricks.com/)
 * [UI Patterns](https://ui-patterns.com/)
