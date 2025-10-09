@@ -9,9 +9,13 @@
 
 <script>
 (function() {
+  const currentPath = window.location.pathname;
+  let replaced = false;
+  let newPath = currentPath;
+
   const redirects = [
     // old page, new page
-    ['resoures/sharepoint/', '/resources/m365-sharepoint/']
+    ['/resoures/sharepoint/', '/resources/m365-sharepoint/']
   ];
   const replacements = [
     // old pattern, new pattern
@@ -20,31 +24,30 @@
     ['/power-platform/', '/d365-power-platform/'],
   ];
 
-  const currentPath = window.location.pathname;
-
-  // Check for exact match
-  const redirect = redirects.find(r => r[0] === currentPath);
-  if (redirect) {
-    window.location.replace(redirect[1]);
-  } else {
-    // handle multiple replacements
-    let newPath = currentPath;
-    let replaced = false;
-    replacements.forEach(([oldPart, newPart]) => {
-      if (newPath.includes(oldPart)) {
-        newPath = newPath.replace(oldPart, newPart);
-        replaced = true;
-      }
-    });
-    if (replaced) {
-      window.location.replace(newPath);
-    }
-    else {
-      console.error('No redirect or replacement found for', currentPath);
-    }
+  // path must end in slash
+  if(!currentPath.endsWith('/')) {
+    newPath += '/';
+    replaced = true;
   }
-
-
+  // handle replacements
+  replacements.forEach(([searchValue, replaceValue]) => {
+    if (newPath.includes(searchValue)) {
+      newPath = newPath.replace(searchValue, replaceValue);
+      replaced = true;
+    }
+  });
+  // handle redirects
+  const redirect = redirects.find(r => r[0] === newPath);
+  if (redirect) {
+    newPath = redirect[1];
+    replaced = true;
+  }
+  if (replaced) {
+    console.log('Redirecting from {0} to {1}', currentPath, newPath);
+    window.location.replace(newPath);
+  } else {
+      console.error('404 with no redirect or replacement found for', currentPath);
+  }
 })();
 </script>
 {{ end }}
