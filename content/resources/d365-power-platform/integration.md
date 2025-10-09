@@ -20,7 +20,8 @@ subtitle: APIs, connectors, and integration patterns
 * [LogicApp / PowerAutomate Connector Catalog](https://learn.microsoft.com/connectors/connector-reference/)
 * [Power Platform CLI](https://learn.microsoft.com/power-platform/developer/cli/introduction)
 * [pac modelbuilder](https://learn.microsoft.com/power-platform/developer/cli/reference/modelbuilder) (.NET)
-* [Enabling TDS endpoint for Dataverse](https://learn.microsoft.com/power-apps/developer/data-platform/dataverse-sql-query    )
+* [Enabling TDS endpoint for Dataverse](https://learn.microsoft.com/power-apps/developer/data-platform/dataverse-sql-query)
+* [XrmToolBox](https://www.xrmtoolbox.com/), [video tutorial](https://www.youtube.com/playlist?list=PL0Pd0TO9GnXhGdFwVRb1wfYRGuS4CVmcA), [SQL4CDS](https://markcarrington.dev/sql-4-cds/)
 
 ## Developer tool lists
 

@@ -23,8 +23,8 @@ subtitle: Dataverse and Dynamics 365 CRM resources
 ## Tools
 
 * [Awesome Dynamics CRM / Dataverse tool list](https://github.com/Elcaten/awesome-dynamics-crm)
-* [XrmToolBox](https://www.xrmtoolbox.com/) - plugins for managing Dataverse
-* [Level Up for Dynamics 365 - Chrome Extension](https://chromewebstore.google.com/detail/level-up-for-dynamics-365/bjnkkhimoaclnddigpphpgkfgeggokam) / [Edge](https://microsoftedge.microsoft.com/addons/detail/level-up-for-dynamics-365/mdjlgdkgmhlmcikdmeehcecolehipicf)
+* [XrmToolBox](https://www.xrmtoolbox.com/), [video tutorial](https://www.youtube.com/playlist?list=PL0Pd0TO9GnXhGdFwVRb1wfYRGuS4CVmcA), [SQL4CDS](https://markcarrington.dev/sql-4-cds/) 
+* [Level Up for Dynamics 365 - Chrome](https://chromewebstore.google.com/detail/level-up-for-dynamics-365/bjnkkhimoaclnddigpphpgkfgeggokam) / [Edge](https://microsoftedge.microsoft.com/addons/detail/level-up-for-dynamics-365/mdjlgdkgmhlmcikdmeehcecolehipicf)
 * [Power Platform CLI](https://learn.microsoft.com/power-platform/developer/cli/introduction)
 * [Dataverse Solution Scanner](https://github.com/alirobe/dataverse-solution-scanner) - backup and scan solutions for governance
 
