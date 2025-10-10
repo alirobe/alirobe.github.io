@@ -13,7 +13,7 @@ Note for all users who might one day use Linux: *use the built-in [aliases](http
 
 * [PowerShell 101](https://learn.microsoft.com/powershell/scripting/learn/ps101/00-introduction)
 * [Hanselman being awesome (50 min YT)](https://www.youtube.com/watch?v=VT2L1SXFq9U) + [blog post](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal)
-* [ctrl + space](https://www.youtube.com/watch?v=X0hwUKuXeTE) is your friend. Use wildcards too :)
+* [ctrl + space](https://www.youtube.com/watch?v=eo8h7AFAV1Y&t=75s) is your friend. Use wildcards too :)
 * [PowerShell documentation](https://learn.microsoft.com/powershell/)
 * [What's new in PowerShell 7](https://learn.microsoft.com/powershell/scripting/whats-new/what-s-new-in-powershell-7)
 * [PowerShell Gallery](https://www.powershellgallery.com/)
