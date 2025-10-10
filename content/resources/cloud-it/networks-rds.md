@@ -1,10 +1,10 @@
 ---
 type: resources
-restype: windows
+restype: cloud
 title: Remote access
 subtitle: Remote access services tips and tricks
 link: Remote access
-order: 2
+order: 3
 ---
 
 ## MS RemoteApp
@@ -24,3 +24,14 @@ order: 2
 * [Splashtop](https://www.splashtop.com/) - IT support
 * [TeamViewer](https://www.teamviewer.com/en/) - simple/support
 * [TSplus](https://www.tsplus.net/) - low cost RDS/VDI (have not tested)
+
+## Other security and identity
+
+* [authentik](https://goauthentik.io/) - open-source identity provider (Okta alternative)
+* [Lakera Guard](https://www.lakera.ai/lakera-guard) - AI security
+* [Censys Search](https://search.censys.io/) - internet-connected device search
+* [Have I Been Pwned](https://haveibeenpwned.com/) - check if your email has been in a data breach
+* [1Password](https://1password.com/) - password manager
+* [WireGuard](https://www.wireguard.com/) - simple, fast VPN
+* [Tailscale](https://tailscale.com/) - zero config VPN
+* [nginx reverse proxy](https://www.nginx.com/resources/wiki/start/topics/examples/reverseproxyexample/)

@@ -2,8 +2,8 @@
 type: resources
 restype: power
 order: 3
-link: Dataverse / CRM
-title: Dataverse / CRM
+link: Dataverse + CRM
+title: Dataverse + CRM
 subtitle: Dataverse and Dynamics 365 CRM resources
 ---
 

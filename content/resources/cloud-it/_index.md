@@ -1,14 +1,14 @@
 ---
 type: resources
-restype: windows
-link: Windows Resources
-title: Windows resources
-subtitle: Shortcuts, setup tips and productivity hacks
+restype: cloud
+link: Cloud & IT
+title: Cloud & IT
+subtitle: Azure, DevOps, workstation setup, and IT administration
 order: 2
 ---
 
 <dl>
-{{< resource-list restype="windows" >}}
+{{< resource-list restype="cloud" >}}
 </dl>
 
 ---

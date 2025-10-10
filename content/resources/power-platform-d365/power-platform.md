@@ -3,7 +3,7 @@ type: resources
 restype: power
 order: 0
 link: Power Platform
-title: Power platform resources
+title: Power Platform resources
 subtitle: Learning paths, communities, and governance
 ---
 

@@ -1,10 +1,10 @@
 ---
 type: resources
-restype: windows
-title: Quick install
+restype: cloud
+title: Windows quick install
 subtitle: Quickly install common tools on Windows - winget/ninite.
-link: Quick install
-order: 2
+link: Windows quick install
+order: 9
 ---
 
 ## For most home users - ninite.com

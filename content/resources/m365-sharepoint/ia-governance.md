@@ -2,9 +2,9 @@
 type: resources
 restype: sharepoint
 order: 1
-link: Adoption
-title: Governance & adoption
-subtitle: Practical governance approaches, information architecture, comms, and user adoption tools
+link: IA + Governance
+title: IA + Governance
+subtitle: Information architecture, governance approaches, and adoption resources
 ---
 
 ## Learn + plan

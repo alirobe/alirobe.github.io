@@ -43,12 +43,17 @@ Requires Hugo extended version. Install from https://gohugo.io/installation/
 
 Content uses a hierarchical structure with custom front matter:
 
-1. **Resource Type System**: Pages use `restype` parameter to group related content
-   - `restype: power` - D365/Power Platform resources
-   - `restype: m365` - M365/SharePoint resources
-   - Other types as defined in content
+1. **Directory Structure**:
+   - `/content/resources/m365-sharepoint/` - M365/SharePoint resources
+   - `/content/resources/power-platform-d365/` - Power Platform & D365 resources
+   - `/content/resources/cloud-it/` - Cloud, Azure, DevOps, and IT administration
 
-2. **Front Matter Schema** (for resource pages):
+2. **Resource Type System**: Pages use `restype` parameter to group related content
+   - `restype: sharepoint` - M365/SharePoint resources
+   - `restype: power` - Power Platform/D365 resources
+   - `restype: cloud` - Cloud & IT resources
+
+3. **Front Matter Schema** (for resource pages):
    - `type: resources` - Sets layout template
    - `restype: <type>` - Category for grouping
    - `order: <number>` - Controls sort order in lists
@@ -56,7 +61,7 @@ Content uses a hierarchical structure with custom front matter:
    - `title: <text>` - Page title
    - `subtitle: <text>` - Optional subtitle displayed below title
 
-3. **Section Index Pages** (`_index.md`):
+4. **Section Index Pages** (`_index.md`):
    - Must have `link` parameter to appear in parent resource list
    - Use `resource-list` shortcode to display child pages: `{{< resource-list restype="power" >}}`
    - Filtered by matching `restype` values
@@ -70,7 +75,7 @@ The site uses Hugo's template hierarchy with custom layouts for resources:
    - Partials: `head.html`, `sidebar.html`, `header.html`, `footer.html`
 
 2. **Resource Layouts** (`layouts/resources/`):
-   - `section.html` - For resource category pages (e.g., `/resources/d365-power-platform/`)
+   - `section.html` - For resource category pages (e.g., `/resources/power-platform-d365/`)
      - Special logic for `/resources/` index to list all subsections
      - Sorts subsections by `Params.order`
    - `single.html` - For individual resource pages
@@ -116,9 +121,20 @@ The redirect system supports two types of mappings:
    - For pattern-based URL transformations
    - Format: `['/old-pattern/', '/new-pattern/']`
    - Replaces all instances of the pattern in the URL
-   - Example: `['/sharepoint-resources/', '/resources/m365-sharepoint/']`
+   - Current redirects handle directory restructuring:
+     - `/sharepoint-resources/` → `/resources/m365-sharepoint/`
+     - `/sharepoint/` → `/m365-sharepoint/`
+     - `/power-platform/` → `/power-platform-d365/`
+     - `/d365-power-platform/` → `/power-platform-d365/`
+     - `/power-bi/` → `/fabric-power-bi/`
+     - `/governance-adoption/` → `/ia-governance/`
+     - `/adoption/` → `/ia-governance/`
+     - `/governance/` → `/ia-governance/`
+     - `/windows/` → `/cloud-it/`
 
 The redirect script also ensures all URLs end with a trailing slash. Make sure all internal links in content use trailing slashes for consistency.
+
+Also make sure that the sidebar navigation links are updated for resource group or non-resource moves. The sidebar links are in `layouts/partials/sidebar.html`. Resources are picked up automatically from their metadata.
 
 ## Content Guidelines
 

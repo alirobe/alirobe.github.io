@@ -1,10 +1,10 @@
 ---
 type: resources
-restype: windows
+restype: cloud
 title: Keyboard shortcuts for Windows 11
 subtitle: Quick, practical shortcuts to fly around Windows 11. A mix of everyday and power-user tricks
-link: KB shortcuts
-order: 1
+link: Windows shortcuts
+order: 8
 ---
 
 ## Essentials you might have missed

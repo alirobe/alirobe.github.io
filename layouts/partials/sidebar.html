@@ -35,8 +35,8 @@
                         {{- end -}}
                     </li>
                     <li>
-                        <a href="/resources/d365-power-platform/"{{if eq .RelPermalink "/resources/d365-power-platform/"}} class="active"{{end}}>D365 + Power Platform</a>
-                        {{- if hasPrefix .RelPermalink "/resources/d365-power-platform/" -}}
+                        <a href="/resources/power-platform-d365/"{{if eq .RelPermalink "/resources/power-platform-d365/"}} class="active"{{end}}>D365 + Power Platform</a>
+                        {{- if hasPrefix .RelPermalink "/resources/power-platform-d365/" -}}
                         <ul>
                             {{- $pages := where .Site.Pages "Section" "resources" -}}
                             {{- $pages = where $pages "Params.restype" "power" -}}
@@ -49,11 +49,11 @@
                         {{- end -}}
                     </li>
                     <li>
-                        <a href="/resources/windows/"{{if eq .RelPermalink "/resources/windows/"}} class="active"{{end}}>Windows</a>
-                        {{- if hasPrefix .RelPermalink "/resources/windows/" -}}
+                        <a href="/resources/cloud-it/"{{if eq .RelPermalink "/resources/cloud-it/"}} class="active"{{end}}>Cloud + IT</a>
+                        {{- if hasPrefix .RelPermalink "/resources/cloud-it/" -}}
                         <ul>
                             {{- $pages := where .Site.Pages "Section" "resources" -}}
-                            {{- $pages = where $pages "Params.restype" "windows" -}}
+                            {{- $pages = where $pages "Params.restype" "cloud" -}}
                             {{- range sort $pages "Params.order" -}}
                             {{- if and .Params.link (ne .File.LogicalName "_index.md") -}}
                             <li><a href="{{ .RelPermalink }}"{{if eq $.RelPermalink .RelPermalink}} class="active"{{end}}>{{ .Params.link }}</a></li>

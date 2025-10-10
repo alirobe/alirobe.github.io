@@ -3,8 +3,8 @@ type: resources
 restype: sharepoint
 order: 0
 link: Development
-title: Development & SPFx resources
-subtitle: Build better custom apps with SPFx, PnP, APIs, and dev tools
+title: Development + SPFx resources
+subtitle: Build better custom Teams/SharePoint/Office apps with SPFx, PnP, APIs, and dev tools
 ---
 
 ## Training
@@ -38,7 +38,9 @@ subtitle: Build better custom apps with SPFx, PnP, APIs, and dev tools
 ## Useful components
 
 * [RJSF (React JSON Schema Form)](https://rjsf-team.github.io/react-jsonschema-form/)
-* [Tanstack Table](https://tanstack.com/table/)
+* [TanStack](https://tanstack.com/) - React table, query, form, and router libraries
+* [shadcn/ui](https://ui.shadcn.com/) - Re-usable React components
+* [Aceternity UI](https://ui.aceternity.com/) - React component library
 * [Kendo React UI](https://www.telerik.com/kendo-react-ui)
 * [d3js](https://d3js.org/)
 * [Chart.js](https://www.chartjs.org/)
@@ -72,14 +74,17 @@ subtitle: Build better custom apps with SPFx, PnP, APIs, and dev tools
 * [Wictor Wilen](https://www.wictorwilen.se/)
 * [Yaroslav Pentsarskyy](https://www.origamiconnect.com/articles)
 
-## Design ideas
+## Design ideas and tools
 
+* [Penpot](https://design.penpot.app/) - open-source design tool (Figma alternative)
+* [Spline](https://spline.design/) - 3D design in the browser
 * [A List Apart](https://alistapart.com/topics)
 * [dribbble](https://dribbble.com/)
+* [Behance](https://www.behance.net/)
+* [uplabs](https://www.uplabs.com/web)
 * [StepTwo Intranet awards / books](https://www.steptwo.com.au/)
 * [Smashing Magazine](https://www.smashingmagazine.com/)
 * [css-tricks](https://css-tricks.com/)
 * [UI Patterns](https://ui-patterns.com/)
-* [Behance](https://www.behance.net/)
 * [GoodUI](https://goodui.org/)
 * [Mobbin](https://mobbin.design/)

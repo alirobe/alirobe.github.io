@@ -2,8 +2,8 @@
 type: resources
 restype: power
 order: 4
-link: Fabric / Power BI
-title: Microsoft Fabric & Power BI
+link: Fabric + Power BI
+title: Fabric + Power BI
 subtitle: Unified analytics platform, Power BI, and DAX resources
 ---
 
