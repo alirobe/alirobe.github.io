@@ -1,5 +1,5 @@
 baseURL = "https://www.ali.id.au/"
-languageCode = "en-au"
+languageCode = "en-us"
 title = "Ali Robertson"
 
 # Disable taxonomy pages

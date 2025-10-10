@@ -42,7 +42,7 @@ subtitle: Build better custom apps with SPFx, PnP, APIs, and dev tools
 * [Kendo React UI](https://www.telerik.com/kendo-react-ui)
 * [d3js](https://d3js.org/)
 * [Chart.js](https://www.chartjs.org/)
-* [Fluent UI React](https://developer.microsoft.com/en-us/fluentui#/controls/web) (by Microsoft)
+* [Fluent UI React](https://developer.microsoft.com/fluentui) (by Microsoft)
 * [PnP Reusable Controls](https://pnp.github.io/sp-dev-fx-controls-react/)
 
 ## Templates & samples, packaged low cost solutions

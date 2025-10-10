@@ -74,3 +74,9 @@ You will want to reboot. You'll want to do a few other things too, like
 - Configure Windows Terminal to use PowerShell as the default shell
 - Log in to VS Code, Browser Profiles, etc.
 - Set up developer drive, password vault, peripherals, entertainment and chat apps, etc.
+
+## Printer weirdness
+
+If having difficulties installing a printer in a restricted environment, use admin acct to bring up the printer install wizard that actually works as admin:
+
+`rundll32 printui.dll,PrintUIEntry /il`

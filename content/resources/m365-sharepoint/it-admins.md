@@ -59,7 +59,7 @@ Keep up to date
 * [AvePoint](https://www.avepoint.com/)
 * [Quest Content Matrix](https://www.quest.com/products/content-matrix/)
 * [ShareGate](https://sharegate.com/)
-* [Synology DSM - Active Backup for 365 (SME)](https://www.synology.com/en-au/dsm/feature/active_backup_office365)
+* [Synology DSM - Active Backup for 365 (SME)](https://www.synology.com/dsm/feature/active_backup_office365)
 * [Veeam](https://www.veeam.com/products/saas/backup-microsoft-office-365.html)
 * [More here...](https://expertinsights.com/backup-and-recovery/the-top-backup-and-recovery-solutions-for-microsoft-office-365)
 - Very small migrations can now be achieved using [PnP Powershell](https://pnp.github.io/powershell/cmdlets/Copy-PnPFile.html).

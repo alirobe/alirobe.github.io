@@ -9,12 +9,15 @@ This is a Hugo-based personal website for Ali Robertson (https://www.ali.id.au),
 ## Development Commands
 
 ### Local Development
+
 ```bash
 hugo server
 ```
+
 The site runs at `http://localhost:1313` with live reload enabled.
 
 ### Build Commands
+
 ```bash
 # Production build (used by CI/CD)
 hugo --gc --minify
@@ -24,11 +27,13 @@ hugo --gc
 ```
 
 ### Hugo Installation
+
 Requires Hugo extended version. Install from https://gohugo.io/installation/
 
 ## Architecture
 
 ### Site Structure
+
 - **Working Branch**: `gh-pages` (deployments trigger on push to this branch)
 - **Main Branch**: `master` (use for PRs)
 - **Hugo Version**: 0.140.2 (specified in `.github/workflows/hugo.yml`)
@@ -83,11 +88,11 @@ The site uses Hugo's template hierarchy with custom layouts for resources:
 - **Markup**: Goldmark renderer with `unsafe = true` (allows raw HTML in markdown)
 - **Code Highlighting**: `codeFences = false` - disabled
 - **Taxonomies**: Disabled (`disableKinds = ["taxonomy", "term"]`)
-- **Locale**: Australian English (`en-au`)
 
 ### Deployment
 
 GitHub Actions workflow (`.github/workflows/hugo.yml`):
+
 - Triggers on push to `gh-pages` branch or manual dispatch
 - Builds with Hugo extended v0.140.2
 - Uses `--gc --minify` flags for production
@@ -113,7 +118,7 @@ The redirect system supports two types of mappings:
    - Replaces all instances of the pattern in the URL
    - Example: `['/sharepoint-resources/', '/resources/m365-sharepoint/']`
 
-The redirect script also ensures all URLs end with a trailing slash.
+The redirect script also ensures all URLs end with a trailing slash. Make sure all internal links in content use trailing slashes for consistency.
 
 ## Content Guidelines
 
@@ -128,5 +133,6 @@ When adding new resource pages:
 ### Link Formatting
 
 **Microsoft URLs**: Remove locale codes (e.g., `/en-us/`) from Microsoft Learn and official Microsoft URLs to allow automatic redirection to the user's preferred language:
+
 - Use: `https://learn.microsoft.com/power-platform/alm/`
 - Not: `https://learn.microsoft.com/en-us/power-platform/alm/`

@@ -32,12 +32,14 @@ Get-togethers are a great way to learn, network, and get inspired.
 
 Keep up to date with these feeds.
 
-* [Official MS 365 blog](https://www.microsoft.com/en-au/microsoft-365/blog/) (+ podcasts / YouTubes)
+* [Official MS 365 blog](https://www.microsoft.com/microsoft-365/blog/) (+ podcasts / YouTubes)
 * [Official SharePoint Podcast -  Intrazone](https://intrazone.libsyn.com)
 * [Official SP Community blog](https://techcommunity.microsoft.com/category/content_management/blog/spblog) (+ podcasts / YouTubes)
 * [Official 'Microsoft Mechanics' YouTube](https://www.youtube.com/@MSFTMechanics)
 * [Official MS 365 Community Call YouTube](https://www.youtube.com/@MicrosoftCommunityLearning)
 * [Sharegate blog](https://sharegate.com/blog)
+* [N8D](https://n8d.at/) - Stefan Bauer's blog on SharePoint and Microsoft 365
+* [Collab365](https://collab365.community/) - Community resources, events, and learning
 * [Medium: SharePoint](https://medium.com/tag/sharepoint)
 * Twitter: [#SharePoint](https://x.com/search?q=%23sharepoint) [#sphelp](https://x.com/search?q=%23sphelp) ([@alirobe's influencer list](https://twitter.com/alirobe/lists/sharepoint-influencers/members))
 * Bluesky: [SharePoint](https://bsky.app/search?q=%23SharePoint) ([bluesky.ms](https://bluesky.ms/))

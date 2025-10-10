@@ -28,13 +28,13 @@ Get up to speed with these resources.
 * M365 governance vendors: [ShareGate](https://sharegate.com/microsoft-governance), [Syskit](https://www.syskit.com/blog/microsoft-office-365-governance/), [Rencore](https://rencore.com/), [AvePoint](https://www.avepoint.com/)
 * [SP: Governance overview](https://learn.microsoft.com/sharepoint/governance-overview)
 * [SP: Brand center](https://learn.microsoft.com/sharepoint/brand-center-overview)
-* [SP: Hub sites](https://learn.microsoft.com/sharepoint/planning-hub-sites), [site topology](https://learn.microsoft.com/en-us/microsoft-365/community/information-architecture-site-topology)
+* [SP: Hub sites](https://learn.microsoft.com/sharepoint/planning-hub-sites), [site topology](https://learn.microsoft.com/microsoft-365/community/information-architecture-site-topology)
 * [SP: Taxonomy / term store](hhttps://www.mrsharepoint.com/sharepoint-taxonomy-guide-how-to-configure-and-design/)
 * [SP: Plan service limits](https://learn.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) + [list limits](https://support.microsoft.com/office/overview-of-large-lists-and-libraries-e2ea4d5d-ec23-4171-95c4-c7f5b5dbfd8a)
 
 ## Governance, planning and adoption blogs
 
-* [Official MS 365 blog](https://www.microsoft.com/en-au/microsoft-365/blog/) (+ podcasts / YouTubes)
+* [Official MS 365 blog](https://www.microsoft.com/microsoft-365/blog/) (+ podcasts / YouTubes)
 * [Official SP Community blog](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/bg-p/SPBlog) (+ podcasts / YouTubes)
 * [JumpTo365](https://www.jumpto365.com/blog) ([YouTube](https://www.youtube.com/channel/UCYGPjbW66h40L4dOt2N_kyw))
 * [Sharegate blog](https://sharegate.com/blog)

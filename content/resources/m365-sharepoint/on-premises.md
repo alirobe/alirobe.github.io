@@ -40,7 +40,7 @@ It's important to patch as needed, and patching does require manual intervention
 ## Handy utilities
 
 * [AutoSPInstaller](https://autospinstaller.com/) (note: read the docs carefully)
-* [ULS Log Viewer](https://www.microsoft.com/en-au/download/details.aspx?id=44020)
+* [ULS Log Viewer](https://www.microsoft.com/download/details.aspx?id=44020)
 * [SharePoint Client Browser](https://github.com/bramdejager/spcb)
 * [pdf ifilter registration - index PDFs](https://gist.github.com/alirobe/260220600a01544e1c467e56bd187d14)
 

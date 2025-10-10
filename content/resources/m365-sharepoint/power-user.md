@@ -28,7 +28,7 @@ subtitle: Practical resources for understanding and using SharePoint more effect
 * [M365 Fundamentals certification](https://learn.microsoft.com/certifications/microsoft-365-fundamentals/)
 * [Power Platform Fundamentals certification](https://learn.microsoft.com/certifications/power-platform-fundamentals/)
 * [LinkedIn Learning video training](https://www.linkedin.com/learning/topics/sharepoint) - some free on [YouTube](https://www.youtube.com/playlist?list=PL26pr4T7OzVNDtfTerqDXkwSvPg2FfFA3)
-* [SharePoint Online's video-enhanced official training](https://support.office.com/en-us/article/Discover-SharePoint-cb8ef501-84db-4427-ac77-ec2009fb8e23?ui=en-US&rs=en-US&ad=US)
+* [SharePoint Online's video-enhanced official training](https://support.office.com/article/Discover-SharePoint-cb8ef501-84db-4427-ac77-ec2009fb8e23)
 * [Search for training on YouTube](https://www.youtube.com/results?q=sharepoint&sp=EgIQAw%253D%253D) ([Kevin Stratvert](https://www.youtube.com/playlist?list=PLlKpQrBME6xLB0wtdoFraKMzavqFSPp7I))
 * [Productive SharePoint Collaboration - free book](https://stevegoodyear.wordpress.com/end-user-training-guide/)
 * [Well-reviewed books](https://www.amazon.com/gp/bestsellers/books/6133983011)
@@ -37,5 +37,5 @@ subtitle: Practical resources for understanding and using SharePoint more effect
 
 * [Microsoft 365 YouTube](https://www.youtube.com/@Microsoft365)
 * [Microsoft Mechanics](https://www.youtube.com/@MSFTMechanics)
-* [MS 365 Blog](https://www.microsoft.com/en-au/microsoft-365/blog/)
+* [MS 365 Blog](https://www.microsoft.com/microsoft-365/blog/)
 * [Daniel Anderson on LinkedIn](https://www.linkedin.com/in/danielando/)
